@@ -17,10 +17,27 @@
 		2EA9B01C26AE5609008A47E7 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EA9B01B26AE5609008A47E7 /* Media.xcassets */; };
 		2EA9B09226AE78B6008A47E7 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EA9B09126AE78B5008A47E7 /* Icon.png */; };
 		2EA9B0DE26AE8249008A47E7 /* HaishinKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B0DC26AE8249008A47E7 /* HaishinKit.framework */; };
-		2EA9B0E026AE8249008A47E7 /* Logboard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B0DD26AE8249008A47E7 /* Logboard.framework */; };
-		2EA9B0E626AE8289008A47E7 /* HaishinKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B0E426AE8289008A47E7 /* HaishinKit.framework */; };
 		2EA9B0E726AE8289008A47E7 /* Logboard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B0E526AE8289008A47E7 /* Logboard.framework */; };
+		2EA9B11526AE89FF008A47E7 /* HaishinKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B0E426AE8289008A47E7 /* HaishinKit.framework */; };
+		2EA9B11626AE89FF008A47E7 /* HaishinKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B0E426AE8289008A47E7 /* HaishinKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		2EA9B11826AE8A01008A47E7 /* Logboard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B0DD26AE8249008A47E7 /* Logboard.framework */; };
+		2EA9B11926AE8A01008A47E7 /* Logboard.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B0DD26AE8249008A47E7 /* Logboard.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2EA9B11726AE89FF008A47E7 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				2EA9B11926AE8A01008A47E7 /* Logboard.framework in Embed Frameworks */,
+				2EA9B11626AE89FF008A47E7 /* HaishinKit.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		2E8B87F026AABB39004C2603 /* SwsStreamKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwsStreamKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,9 +66,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2EA9B0E026AE8249008A47E7 /* Logboard.framework in Frameworks */,
-				2EA9B0E626AE8289008A47E7 /* HaishinKit.framework in Frameworks */,
+				2EA9B11526AE89FF008A47E7 /* HaishinKit.framework in Frameworks */,
 				2EA9B0E726AE8289008A47E7 /* Logboard.framework in Frameworks */,
+				2EA9B11826AE8A01008A47E7 /* Logboard.framework in Frameworks */,
 				2EA9B0DE26AE8249008A47E7 /* HaishinKit.framework in Frameworks */,
 				2E8B880926AABB97004C2603 /* AVKit.framework in Frameworks */,
 				2E8B880C26AABB98004C2603 /* AVFoundation.framework in Frameworks */,
@@ -148,6 +165,7 @@
 				2E8B87EC26AABB39004C2603 /* Sources */,
 				2E8B87ED26AABB39004C2603 /* Frameworks */,
 				2E8B87EE26AABB39004C2603 /* Resources */,
+				2EA9B11726AE89FF008A47E7 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -354,6 +372,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				EXCLUDED_ARCHS = arm64;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -387,6 +406,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				EXCLUDED_ARCHS = arm64;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
