@@ -2,7 +2,7 @@
 //  SwsStreamKit.h
 //  SwsStreamKit
 //
-//  Created by Inpyo Hong on 2021/07/23.
+//  Created by Inpyo Hong on 2021/07/26.
 //
 
 #import <Foundation/Foundation.h>

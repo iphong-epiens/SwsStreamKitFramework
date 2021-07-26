@@ -1,3 +1,10 @@
+//
+//  LiveViewController.swift
+//  SwsStreamKit
+//
+//  Created by Inpyo Hong on 2021/07/26.
+//
+
 import AVFoundation
 import HaishinKit
 import Photos

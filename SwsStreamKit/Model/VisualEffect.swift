@@ -10,8 +10,10 @@ final class PronamaEffect: VideoEffect {
             if extent == oldValue {
                 return
             }
+            
             UIGraphicsBeginImageContext(extent.size)
-            let image = UIImage(named: "Icon.png")!
+
+            guard let image = UIImage(named: "icon", in: nil, compatibleWith: nil) else { return }
             image.draw(at: CGPoint(x: 50, y: 50))
             pronama = CIImage(image: UIGraphicsGetImageFromCurrentImageContext()!, options: nil)
             UIGraphicsEndImageContext()
