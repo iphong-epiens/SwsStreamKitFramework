@@ -2,8 +2,8 @@ BCSymbolMap Version: 2.0
 Apple clang version 12.0.5 (clang-1205.0.22.11)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
 iPhoneOS14.5.sdk
-/Users/iphong/Library/Developer/Xcode/DerivedData/SwsStreamKit-brdceicrdcpqnghdxilmqwihbznv/Build/Intermediates.noindex/ArchiveIntermediates/SwsStreamKit/IntermediateBuildFilesPath/HaishinKit.build/Release-iphoneos/HaishinKit iOS.build/DerivedSources/HaishinKit_vers.c
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift
+/Users/iphong/Library/Developer/Xcode/DerivedData/SwsStreamKit-foujsbnvziszxlgdqhuqvugpyksq/Build/Intermediates.noindex/ArchiveIntermediates/SwsStreamKit/IntermediateBuildFilesPath/HaishinKit.build/Release-iphoneos/HaishinKit iOS.build/DerivedSources/HaishinKit_vers.c
+/Users/iphong/Desktop/HaishinKit.swift
 __swift_FORCE_LOAD_$_swiftCompatibility50
 __swift_FORCE_LOAD_$_swiftCompatibility51
 __swift_FORCE_LOAD_$_swiftCompatibilityDynamicReplacements
@@ -863,7 +863,7 @@ Apple clang version 12.0.5 (clang-1205.0.19.57)
 -private-discriminator _637F0347BEC36FA597918F94A6B7D922
 <swift-imported-modules>
 Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4SegmentFile.Builder.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4SegmentFile.Builder.swift
 $sSo15CIContextOptionaSHSCSQWb
 <compiler-generated>
 $sSo11CFStringRefa14CoreFoundation9_CFObjectSCSHWb
@@ -1200,7 +1200,7 @@ _symbolic _____ 10HaishinKit13FLVVideoCodecO
 _got.$s10HaishinKit16FLVAVCPacketTypeOMn
 _symbolic _____ 10HaishinKit16FLVAVCPacketTypeO
 _$s10HaishinKit11FLVVideoTagVMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVTagType.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVTagType.swift
 objectdestroy.3
 objectdestroy
 $s10HaishinKit11FLVVideoTagVMa
@@ -1287,7 +1287,7 @@ _$s10HaishinKit14MP4SampleEntryMp
 _$s10HaishinKit14MP4SampleEntryTL
 _$s10HaishinKit14MP4SampleEntryPAA0C14BoxConvertibleTb
 _$s10HaishinKit14MP4SampleEntryP18dataReferenceIndexs6UInt16VvgTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4SampleEntry.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4SampleEntry.swift
 _$s10HaishinKit22MP4SoundMediaHeaderBoxVwCP
 _$s10HaishinKit22MP4SoundMediaHeaderBoxVwxx
 _$s10HaishinKit22MP4SoundMediaHeaderBoxVwcp
@@ -1323,7 +1323,7 @@ _$s10HaishinKit22MP4SoundMediaHeaderBoxVAA0c4FullG0AAWP
 _$s10HaishinKit10MP4FullBoxMp
 _got.$s10HaishinKit10MP4FullBoxMp
 _$s10HaishinKit22MP4SoundMediaHeaderBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4SoundMediaHeaderBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4SoundMediaHeaderBox.swift
 $s10HaishinKit22MP4SoundMediaHeaderBoxVMa
 $s10HaishinKit22MP4SoundMediaHeaderBoxVwst
 $s10HaishinKit22MP4SoundMediaHeaderBoxVwet
@@ -1872,7 +1872,7 @@ _$s10HaishinKit22RTMPUserControlMessageC5EventON
 _$s10HaishinKit27RTMPSetPeerBandwidthMessageC5LimitON
 _$s10HaishinKit15RTMPMessageTypeON
 -private-discriminator _5E14111F26A704E301F6FADCC7EC2712
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPMessage.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPMessage.swift
 __swift_destroy_boxed_opaque_existential_0
 $sSo27AudioStreamBasicDescriptionVSgWOb
 $s10HaishinKit13AMFSerializer_pWOc
@@ -2155,12 +2155,12 @@ _symbolic So8NSObjectC
 _$s10HaishinKit11AudioEffectCMf
 _symbolic _____ 10HaishinKit11AudioEffectC
 _$s10HaishinKit11AudioEffectCMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/AudioEffect.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/AudioEffect.swift
 $s10HaishinKit11AudioEffectCMa
 _$s10HaishinKit15AVCFormatStreamV06toByteD010Foundation4DataVyF
 _$s10HaishinKit9ByteArrayC5ErrorOAEsAdAWl
 _$s10HaishinKit9ByteArrayC5ErrorOAEsAdAWL
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/AVCFormatStream.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/AVCFormatStream.swift
 $s10HaishinKit9ByteArrayC5ErrorOAEsAdAWl
 toByteStream
 bytesAvailable.get
@@ -2195,7 +2195,7 @@ _$s10HaishinKit11ScalingModeOSYAAMcMK
 _$s10HaishinKit11ScalingModeOWV
 _$s10HaishinKit11ScalingModeOMf
 _$s10HaishinKit11ScalingModeOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/ScalingMode.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/ScalingMode.swift
 $s10HaishinKit11ScalingModeOMa
 $s10HaishinKit11ScalingModeOwui
 $s10HaishinKit11ScalingModeOwup
@@ -2232,7 +2232,7 @@ _$s10HaishinKit23MP4SampleDescriptionBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit23MP4SampleDescriptionBoxVAA0c4FullF0AAMc
 _$s10HaishinKit23MP4SampleDescriptionBoxVAA0c4FullF0AAWP
 _$s10HaishinKit23MP4SampleDescriptionBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4SampleDescriptionBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4SampleDescriptionBox.swift
 $s10HaishinKit23MP4SampleDescriptionBoxVMa
 $s10HaishinKit23MP4SampleDescriptionBoxVwst
 $s10HaishinKit23MP4SampleDescriptionBoxVwet
@@ -2241,7 +2241,7 @@ $s10HaishinKit23MP4SampleDescriptionBoxVwca
 $s10HaishinKit23MP4SampleDescriptionBoxVwcp
 $s10HaishinKit23MP4SampleDescriptionBoxVwxx
 $s10HaishinKit23MP4SampleDescriptionBoxVwCP
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/VTCompressionSession+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/VTCompressionSession+Extension.swift
 _$s10HaishinKit7SettingC8observerxSgvg
 _$s10HaishinKit7SettingCyypSgq_cipRlzCAA20KeyPathRepresentableR_r0_lACyxq_Gxq_TK
 _$s10HaishinKit7SettingCyypSgq_cipRlzCAA20KeyPathRepresentableR_r0_lACyxq_Gxq_Tk
@@ -2293,7 +2293,7 @@ _$s10HaishinKit7SettingC8observerxSgvgTq
 _$s10HaishinKit7SettingC8observerxSgvsTq
 _$s10HaishinKit7SettingC8observerxSgvMTq
 -private-discriminator _51254CBF2B2443E62800E51C53CA42CE
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/Setting.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/Setting.swift
 __swift_instantiateGenericMetadata
 $sypSgWOc
 $s10HaishinKit7SettingCMa
@@ -2352,7 +2352,7 @@ observer.get
 subscript.modify
 $s10HaishinKit7SettingCyypSgq_cipRlzCAA20KeyPathRepresentableR_r0_lACyxq_Gxq_Tk
 $s10HaishinKit7SettingCyypSgq_cipRlzCAA20KeyPathRepresentableR_r0_lACyxq_Gxq_TK
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/AVFoundation+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/AVFoundation+Extension.swift
 _$s10HaishinKit13MP4FileReaderCfD
 _$s10HaishinKit13MP4FileReaderCMa
 _$s10HaishinKit13MP4FileReaderCs28CustomDebugStringConvertibleAAsADP16debugDescriptionSSvgTW
@@ -2386,7 +2386,7 @@ _$s10HaishinKit6MP4BoxVN
 _$s10HaishinKit13MP4FileReaderC14forReadingFromAC10Foundation3URLV_tKcfCTq
 _$s10HaishinKit13MP4FileReaderCN
 -private-discriminator _C38D38E33A8588B1A651E0E83BA8C0FC
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4FileReader.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4FileReader.swift
 Sources/MP4/MP4Box.swift
 $s10HaishinKit13MP4FileReaderCMa
 _$s10HaishinKit6MP4BoxV4NameC8rawValueAEy_xGSS_tcfC
@@ -2455,7 +2455,7 @@ _$s10HaishinKit6MP4BoxV5NamesCAEycfCTq
 _$s10HaishinKit6MP4BoxV5NamesCN
 _$s10HaishinKit6MP4BoxV4NameC8rawValueAEy_xGSS_tcfCTq
 -private-discriminator _A2F609755D14E5C2D2DA0B4FB090C06E
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4Box.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4Box.swift
 $s10HaishinKit6MP4BoxV4NameCy_xGSHAASQWb
 $s10HaishinKit6MP4BoxVMa
 $s10HaishinKit6MP4BoxVwst
@@ -2717,7 +2717,7 @@ _objc_categories
 _$s10HaishinKit11RTMPTSocketCN
 _OBJC_CLASS_$__TtC10HaishinKit11RTMPTSocket
 -private-discriminator _9AE07688AFBD59B71F804C149F46F6A4
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPTSocket.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPTSocket.swift
 $s10HaishinKit18RTMPSocketDelegate_pSgXwWOh
 $s10Foundation3URLVSgMa
 $sSaySo17OS_dispatch_queueC8DispatchE10AttributesVGSayxGSTsWl
@@ -2856,7 +2856,7 @@ $ss12_ArrayBufferV9_isNativeSbvg10HaishinKit5EventC_Tg5
 $s10HaishinKit11RTMPTSocketC11contentType_WZ
 _symbolic $s10HaishinKit27HKPictureInPicureControllerP
 _$s10HaishinKit27HKPictureInPicureController_pMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/PiP/HKPictureInPicureController.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/PiP/HKPictureInPicureController.swift
 _$s10HaishinKit27MP4FragmentedWriterDelegateP6writer_17didSegmentChangedyAA0cdE0C_AA0C3BoxVtFTj
 _$s10HaishinKit19MP4FragmentedWriterCfD
 _$s10HaishinKit19MP4FragmentedWriterCMa
@@ -2913,7 +2913,7 @@ _$s10HaishinKit19MP4FragmentedWriterCN
 _$s10HaishinKit23MP4FragmentedTrafWriterCACycfCTq
 _$s10HaishinKit23MP4FragmentedTrafWriterCN
 -private-discriminator _FDA8538C498C3C48E12E7B967BFE0267
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4FragmentedWriter.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4FragmentedWriter.swift
 $s10HaishinKit27MP4FragmentedWriterDelegate_pSgXwWOh
 $s10HaishinKit23MP4FragmentedTrafWriterCMa
 audioCodec
@@ -2971,7 +2971,7 @@ _symbolic _____ 10Foundation3URLV
 _symbolic So12NSFileHandleCSg
 _$s10HaishinKit9FLVReaderCMF
 -private-discriminator _B026612F73A82A99529A5F4BA98E3715
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVReader.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVReader.swift
 $s10HaishinKit9FLVReaderCMr
 $s10HaishinKit9FLVReaderCMa
 $s10HaishinKit9FLVReaderCMU
@@ -3178,7 +3178,7 @@ __PROTOCOL_METHOD_TYPES_AVCaptureVideoDataOutputSampleBufferDelegate
 _$s10HaishinKit16VideoIOComponentCN
 _OBJC_CLASS_$__TtC10HaishinKit16VideoIOComponent
 -private-discriminator _F0B0818F4853EEC71942E82D26A0A071
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/VideoIOComponent.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/VideoIOComponent.swift
 $sSaySo17OS_dispatch_queueC8DispatchE10AttributesVGMa
 $s10HaishinKit11VideoEffectCSo8NSObjectCSH10ObjectiveCWl
 $sSS3key_yp5valuetSgWOh
@@ -3494,7 +3494,7 @@ _$s10HaishinKit16RTMPSharedObjectC4name4path11persistenceACSS_SSSbtcfCTq
 _$s10HaishinKit16RTMPSharedObjectC11createChunkyAA9RTMPChunkCSayAA0cD5EventVGFTq
 _$s10HaishinKit21RTMPSharedObjectEventV4TypeON
 -private-discriminator _6FEA3913B1813CA03D06190896EAC406
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPSharedObject.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPSharedObject.swift
 $s10HaishinKit21RTMPSharedObjectEventV4TypeOAESQAAWl
 $s10HaishinKit21RTMPSharedObjectEventV4TypeOSHAASQWb
 $s10HaishinKit21RTMPSharedObjectEventV4TypeOMa
@@ -3665,7 +3665,7 @@ _$s10HaishinKit31HKPictureInPicureControllerImplCMa
 _$s10HaishinKit31HKPictureInPicureControllerImplCyACSo06UIViewF0CcfcTf4gn_n
 _$s10HaishinKit34HKPictureInPicureControllerImplKey33_ED5714D3404FFC6B387A927CBE3EBF3BLLs5UInt8Vvp
 -private-discriminator _ED5714D3404FFC6B387A927CBE3EBF3B
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/PiP/HKPictureInPicureController+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/PiP/HKPictureInPicureController+Extension.swift
 keypath_get_arg_layout.15
 keypath_set.14
 $s10HaishinKit27HKPictureInPicureControllerPAASo06UIViewF0CRbzrlE07pictureD24PictureAnimationDurationSdvpAERbzAaBRzlxTk
@@ -3798,7 +3798,7 @@ _$s10HaishinKit32DisplayLinkedQueueClockReferenceP8durationSdvgTq
 _$s10HaishinKit18DisplayLinkedQueueCN
 _OBJC_CLASS_$__TtC10HaishinKit18DisplayLinkedQueue
 -private-discriminator _EAC46570DCBBD713BEC78255B5D201DC
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/DisplayLinkedQueue.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/DisplayLinkedQueue.swift
 $s10HaishinKit18DisplayLinkedQueueC11stopRunningyyFyycfU_TA
 displayLink.set
 displayLink.didset
@@ -3865,7 +3865,7 @@ _$s10HaishinKit35HKPictureInPicureControllerPositionOWV
 _$s10HaishinKit35HKPictureInPicureControllerPositionOMf
 _symbolic _____ 10HaishinKit35HKPictureInPicureControllerPositionO
 _$s10HaishinKit35HKPictureInPicureControllerPositionOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/PiP/HKPictureInPicureControllerPosition.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/PiP/HKPictureInPicureControllerPosition.swift
 $s10HaishinKit35HKPictureInPicureControllerPositionOMa
 $s10HaishinKit35HKPictureInPicureControllerPositionOwui
 $s10HaishinKit35HKPictureInPicureControllerPositionOwup
@@ -3900,7 +3900,7 @@ _$s10HaishinKit12FLVSoundRateOSYAAMcMK
 _$s10HaishinKit12FLVSoundRateOWV
 _$s10HaishinKit12FLVSoundRateOMf
 _$s10HaishinKit12FLVSoundRateOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVSoundRate.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVSoundRate.swift
 $s10HaishinKit12FLVSoundRateOMa
 $s10HaishinKit12FLVSoundRateOwui
 $s10HaishinKit12FLVSoundRateOwup
@@ -3921,7 +3921,7 @@ _$s10HaishinKit14SoundTransformVMf
 _symbolic _____ 10HaishinKit14SoundTransformV
 _symbolic Sf
 _$s10HaishinKit14SoundTransformVMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/SoundTransform.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/SoundTransform.swift
 $s10HaishinKit14SoundTransformVMa
 $s10HaishinKit14SoundTransformVwst
 $s10HaishinKit14SoundTransformVwet
@@ -4043,7 +4043,7 @@ _$s10HaishinKit18RTMPSocketDelegateP6listenyy10Foundation4DataVFTq
 _$s10HaishinKit18RTMPSocketDelegateP16didSetReadyStateyyAA0cgH0OFTq
 _$s10HaishinKit18RTMPSocketDelegateP18didSetTotalBytesInyys5Int64VFTq
 _$s10HaishinKit20RTMPSocketReadyStateON
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPSocketCompatible.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPSocketCompatible.swift
 $s10HaishinKit20RTMPSocketReadyStateOACSQAAWl
 $s10HaishinKit20RTMPSocketReadyStateOSHAASQWb
 $s10HaishinKit20RTMPSocketReadyStateOMa
@@ -4168,7 +4168,7 @@ _$s10HaishinKit15PESPacketHeaderP4data10Foundation4DataVvsTq
 _$s10HaishinKit15PESPacketHeaderP4data10Foundation4DataVvMTq
 _$s10HaishinKit26PacketizedElementaryStreamVN
 _$s10HaishinKit17PESOptionalHeaderVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/PacketizedElementaryStream.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/PacketizedElementaryStream.swift
 $s10HaishinKit22AVCConfigurationRecordVSgWOs
 $s10HaishinKit17PESOptionalHeaderVSgWOb
 create
@@ -4289,7 +4289,7 @@ _$s10HaishinKit21HTTPRequestCompatibleP12headerFieldsSDyS2SGvMTq
 _$s10HaishinKit21HTTPRequestCompatibleP4body10Foundation4DataVSgvgTq
 _$s10HaishinKit21HTTPRequestCompatibleP4body10Foundation4DataVSgvsTq
 _$s10HaishinKit21HTTPRequestCompatibleP4body10Foundation4DataVSgvMTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/HTTP/HTTPRequest.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/HTTP/HTTPRequest.swift
 $s10HaishinKit11HTTPRequestVMa
 $s10HaishinKit11HTTPRequestVwst
 $s10HaishinKit11HTTPRequestVwet
@@ -4360,7 +4360,7 @@ _got.$s10HaishinKit14BaseDescriptorMp
 _$s10HaishinKit12ESDescriptorVAA14BaseDescriptorAAMcMK
 _$s10HaishinKit12ESDescriptorVAA14BaseDescriptorAAMc
 _$s10HaishinKit12ESDescriptorVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/ESDescriptor.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/ESDescriptor.swift
 $s10HaishinKit12ESDescriptorVACSQAAWl
 $s10HaishinKit12ESDescriptorVACs28CustomDebugStringConvertibleAAWl
 $s10HaishinKit12ESDescriptorVAA14BaseDescriptorAAWI
@@ -4562,7 +4562,7 @@ _got.$s10HaishinKit16RTMPSharedObjectCMn
 _symbolic _____ySS_____G s18_DictionaryStorageC 10HaishinKit16RTMPSharedObjectC
 _$ss18_DictionaryStorageCySS10HaishinKit16RTMPSharedObjectCGMD
 -private-discriminator _AA806F115C03376EB0F0784E5EF5B090
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/ASClass.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/ASClass.swift
 __swift_deallocate_boxed_opaque_existential_0
 $ss5UInt8VABSUsWl
 $sSS8UTF8ViewVABSlsWl
@@ -4854,7 +4854,7 @@ _$s10HaishinKit8TSReaderC30readPacketizedElementaryStream_6packetyAA0fG12Specifi
 _$s10HaishinKit8TSReaderC5closeyyFTq
 _$s10HaishinKit8TSReaderCN
 -private-discriminator _AD9B222E525713917EBB710E3874AD82
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/TS/TSReader.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/TS/TSReader.swift
 $s10HaishinKit16TSReaderDelegate_pSgXwWOh
 $s10HaishinKit8TSPacketVSgWOb
 $s10HaishinKit8TSReaderCMa
@@ -5129,7 +5129,7 @@ _symbolic _____y_____G s23_ContiguousArrayStorageC 10HaishinKit11H264EncoderC6Op
 _$ss23_ContiguousArrayStorageCy10HaishinKit11H264EncoderC6OptionOGMD
 _$s10HaishinKit11H264EncoderCACycfCTq
 -private-discriminator _BA40B7E204862CB87460E521C7B19343
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Codec/H264Encoder.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Codec/H264Encoder.swift
 $s10HaishinKit10AudioCodecC6OptionO_yptWOc
 $s10HaishinKit11H264EncoderC8callback33_BA40B7E204862CB87460E521C7B19343LLyySvSg_AFs5Int32VSo17VTEncodeInfoFlagsVSo17CMSampleBufferRefaSgtXCvpfiyAF_AfhjMtcfU_Tf4ndndn_n
 $sSay8Dispatch0A13WorkItemFlagsVGMa
@@ -5366,7 +5366,7 @@ _$s10HaishinKit8MTHKViewC12displayImageSo7CIImageCSgvgTq
 _$s10HaishinKit8MTHKViewC12displayImageSo7CIImageCSgvsTq
 _$s10HaishinKit8MTHKViewC12displayImageSo7CIImageCSgvMTq
 -private-discriminator _C19C5B5FA2A1E6195E72AE45811B362A
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/MTHKView.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/MTHKView.swift
 $s10HaishinKit8MTHKViewC13currentStream33_C19C5B5FA2A1E6195E72AE45811B362ALLAA03NetE0CSgvWyycfU_TA
 draw
 $s12CoreGraphics7CGFloatVyACxcSzRzlufCSi_Tgq5
@@ -5562,7 +5562,7 @@ _$s8Dispatch0A11SpecificKeyCySvGMD
 _block_descriptor.42
 _$s10HaishinKit9NetStreamC15ensureLockQueue8callbackyyyXE_tFTq
 -private-discriminator _F57E7AC16CA54A948030CB82EB07D6B2
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Net/NetStream.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Net/NetStream.swift
 objectdestroy.38
 $s10HaishinKit9NetStreamC15ensureLockQueue8callbackyyyXE_tFyyXEfU_TA
 $s10HaishinKit9NetStreamC15ensureLockQueue8callbackyyyXE_tFyyXEfU_
@@ -5689,7 +5689,7 @@ _$s10HaishinKit14CircularBufferVMF
 _$s10HaishinKit14CircularBufferVyxGs23CustomStringConvertibleAAMcMK
 _$s10HaishinKit14CircularBufferVyxGs23CustomStringConvertibleAAMc
 -private-discriminator _06AB390EE06EDDB8AAC9A9149F52F527
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/CircularBuffer.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/CircularBuffer.swift
 $s10HaishinKit14CircularBufferVMa
 $s10HaishinKit14CircularBufferVwst
 $s10HaishinKit14CircularBufferVwet
@@ -5722,7 +5722,7 @@ _$s10HaishinKit13FLVVideoCodecOSYAAMcMK
 _$s10HaishinKit13FLVVideoCodecOWV
 _$s10HaishinKit13FLVVideoCodecOMf
 _$s10HaishinKit13FLVVideoCodecOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVVideoCodec.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVVideoCodec.swift
 $s10HaishinKit13FLVVideoCodecOMa
 $s10HaishinKit13FLVVideoCodecOwui
 $s10HaishinKit13FLVVideoCodecOwup
@@ -5773,7 +5773,7 @@ _$s10HaishinKit14MP4EditListBoxV5EntryVSQAAMcMK
 _$s10HaishinKit14MP4EditListBoxV5EntryVSQAAMc
 _$s10HaishinKit14MP4EditListBoxVN
 _$s10HaishinKit14MP4EditListBoxV5EntryVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4EditListBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4EditListBox.swift
 $s10HaishinKit14MP4EditListBoxV5EntryVMa
 $s10HaishinKit14MP4EditListBoxV5EntryVwst
 $s10HaishinKit14MP4EditListBoxV5EntryVwet
@@ -5812,7 +5812,7 @@ _$s10HaishinKit13MP4HandlerBoxVAA0cE11ConvertibleAAWP
 _$s10HaishinKit13MP4HandlerBoxVAA0c4FullE0AAMc
 _$s10HaishinKit13MP4HandlerBoxVAA0c4FullE0AAWP
 _$s10HaishinKit13MP4HandlerBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4HandlerBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4HandlerBox.swift
 $s10HaishinKit13MP4HandlerBoxVMa
 $s10HaishinKit13MP4HandlerBoxVwst
 $s10HaishinKit13MP4HandlerBoxVwet
@@ -5846,7 +5846,7 @@ _$s10HaishinKit16MP4SyncSampleBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit16MP4SyncSampleBoxVAA0c4FullF0AAMc
 _$s10HaishinKit16MP4SyncSampleBoxVAA0c4FullF0AAWP
 _$s10HaishinKit16MP4SyncSampleBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4SyncSampleBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4SyncSampleBox.swift
 $s10HaishinKit16MP4SyncSampleBoxVMa
 $s10HaishinKit16MP4SyncSampleBoxVwst
 $s10HaishinKit16MP4SyncSampleBoxVwet
@@ -5924,7 +5924,7 @@ _$s10HaishinKit6HKViewC12displayImageSo7CIImageCSgvgTq
 _$s10HaishinKit6HKViewC12displayImageSo7CIImageCSgvsTq
 _$s10HaishinKit6HKViewC12displayImageSo7CIImageCSgvMTq
 -private-discriminator _39B45B68766B698C0D0AA5815FC09901
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Platforms/iOS/HKView.swift
+/Users/iphong/Desktop/HaishinKit.swift/Platforms/iOS/HKView.swift
 $s10HaishinKit6HKViewC11orientationSo25AVCaptureVideoOrientationVvWyyXEfU0_TA
 $s10HaishinKit6HKViewC11orientationSo25AVCaptureVideoOrientationVvWyyXEfU0_
 objectdestroy.5
@@ -6031,7 +6031,7 @@ _$s10HaishinKit10AudioCodecC0C6BufferC_10numSamplesAESo0C22StreamBasicDescriptio
 _$s10HaishinKit10AudioCodecC0C6BufferCN
 _$s10HaishinKit10AudioCodecC0C6BufferC5ErrorON
 -private-discriminator _9CBF433CDC934A73793DA143BFC68C1B
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Codec/AudioCodec.AudioBuffer.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Codec/AudioCodec.AudioBuffer.swift
 $s10HaishinKit10AudioCodecC0C6BufferC5ErrorOAGSQAAWl
 $s10HaishinKit10AudioCodecC0C6BufferC5ErrorOSHAASQWb
 $s10HaishinKit10AudioCodecC0C6BufferC5ErrorOMa
@@ -6201,7 +6201,7 @@ _$ss23_ContiguousArrayStorageCySo15CIContextOptiona_yptGMD
 _$s10HaishinKit20ScreenCaptureSessionC9isRunningAA6AtomicVySbGvsTq
 _$s10HaishinKit20ScreenCaptureSessionC9isRunningAA6AtomicVySbGvMTq
 -private-discriminator _20AA4B8CEB939D0EA055B19E06E66592
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Platforms/iOS/ScreenCaptureSession.swift
+/Users/iphong/Desktop/HaishinKit.swift/Platforms/iOS/ScreenCaptureSession.swift
 $sSo8UIWindowCMa
 $s10HaishinKit20ScreenCaptureSessionC02onC0yySo13CADisplayLinkCFyycfU_yyXEfU_TA
 $s10HaishinKit20ScreenCaptureSessionC02onC0yySo13CADisplayLinkCFyycfU_yyXEfU_
@@ -6348,7 +6348,7 @@ _$s10HaishinKit9RTMPChunkC_4sizeACSg10Foundation4DataV_SitcfCTq
 _$s10HaishinKit9RTMPChunkCN
 _$s10HaishinKit13RTMPChunkTypeON
 -private-discriminator _34E775E627E77F2F605421D59DD08A08
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPChunk.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPChunk.swift
 $ss5UInt8VSzsSz8isSignedSbvgZTW
 $sSNyxGSXsSX8relative2toSny5BoundQzGqd___tSlRd__5IndexQyd__AERSlFTWSi_SnySiGTg5
 $sSN8relative2toSnyxGqd___t5IndexQyd__RszSlRd__lFSi_SnySiGTg5
@@ -6404,7 +6404,7 @@ _$s10HaishinKit16VideoIOComponentC7session_6didSetyAA25CaptureSessionConvertible
 _$s10HaishinKit16VideoIOComponentCAA22CaptureSessionDelegateAAMc
 _got.$s10HaishinKit22CaptureSessionDelegateMp
 _got.$s10HaishinKit16VideoIOComponentCMn
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Platforms/iOS/VideoIOComponent+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Platforms/iOS/VideoIOComponent+Extension.swift
 $s10HaishinKit16VideoIOComponentC7session_6didSetyAA25CaptureSessionConvertible_p_So6CGSizeVtFyycfU_TA
 session
 $s10HaishinKit16VideoIOComponentC7session_6didSetyAA25CaptureSessionConvertible_p_So6CGSizeVtFyycfU_
@@ -6439,7 +6439,7 @@ _$s10HaishinKit22AVCConfigurationRecordVAA15DataConvertibleAAMc
 _$s10HaishinKit22AVCConfigurationRecordVAA15DataConvertibleAAWP
 _symbolic _____ySPy_____GG s23_ContiguousArrayStorageC s5UInt8V
 _$ss23_ContiguousArrayStorageCySPys5UInt8VGGMD
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/AVCConfigurationRecord.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/AVCConfigurationRecord.swift
 readUInt16
 $sSa12_endMutationyyFSays5UInt8VG_Tg5
 $sSa37_appendElementAssumeUniqueAndCapacity_03newB0ySi_xntFSays5UInt8VG_Tg5
@@ -6732,7 +6732,7 @@ _$s10HaishinKit12TSFileWriterC8playlistSSvgTq
 _$s10HaishinKit12TSFileWriterC11getFilePathySSSgSSFTq
 _$s10HaishinKit12TSFileWriterCN
 -private-discriminator _769F9F054846B943A5366EDC959E949E
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/TS/TSWriter.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/TS/TSWriter.swift
 $s10HaishinKit8TSPacketVWOs
 $s10HaishinKit8TSPacketVWOr
 objectdestroy.18
@@ -7174,11 +7174,11 @@ _$s10HaishinKit17NetStreamRendererP12displayImageSo7CIImageCSgvMTq
 _$s10HaishinKit17NetStreamRendererP22videoFormatDescriptionSo08CMFormatH3RefaSgvgTq
 _$s10HaishinKit17NetStreamRendererP6render5imageySo7CIImageCSg_tFTq
 _$s10HaishinKit17NetStreamRendererP06attachD0yyAA0cD0CSgFTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Net/NetStreamRenderer.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Net/NetStreamRenderer.swift
 $s10HaishinKit17NetStreamRendererPAASo6UIViewCRbzrlE6render5imageySo7CIImageCSg_tFyycfU_TA
 $s10HaishinKit17NetStreamRendererPAASo6UIViewCRbzrlE6render5imageySo7CIImageCSg_tFyycfU_
 render
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Net/MIME.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Net/MIME.swift
 ___swift_memcpy9_4
 _$s10HaishinKit37ProfileLevelIndicationIndexDescriptorVwet
 _$s10HaishinKit37ProfileLevelIndicationIndexDescriptorVwst
@@ -7206,7 +7206,7 @@ _$s10HaishinKit37ProfileLevelIndicationIndexDescriptorVACSQAAWL
 _$s10HaishinKit37ProfileLevelIndicationIndexDescriptorVAA04BaseG0AAMcMK
 _$s10HaishinKit37ProfileLevelIndicationIndexDescriptorVAA04BaseG0AAMc
 _$s10HaishinKit37ProfileLevelIndicationIndexDescriptorVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/ProfileLevelIndicationIndexDescriptor.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/ProfileLevelIndicationIndexDescriptor.swift
 $s10HaishinKit37ProfileLevelIndicationIndexDescriptorVACSQAAWl
 $s10HaishinKit37ProfileLevelIndicationIndexDescriptorVACs28CustomDebugStringConvertibleAAWl
 $s10HaishinKit37ProfileLevelIndicationIndexDescriptorVAA04BaseG0AAWI
@@ -7284,7 +7284,7 @@ _$s10HaishinKit9NetClientCMF
 _$s10HaishinKit9NetSocketC11inputStreamSo07NSInputF0CSgvpWvd
 _$s10HaishinKit9NetSocketC12outputStreamSo08NSOutputF0CSgvpWvd
 _$s10HaishinKit9NetClientC11inputStream06outputF0ACSo07NSInputF0C_So08NSOutputF0CtcfCTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Net/NetClient.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Net/NetClient.swift
 outputStream.set
 Sources/Net/NetSocket.swift
 inputStream.set
@@ -7307,7 +7307,7 @@ _$s10HaishinKit20MP4ReaderConvertibleTL
 _$s10HaishinKit20MP4ReaderConvertibleP8fileTypeAA0c4FileG3BoxVvgTq
 _$s10HaishinKit20MP4ReaderConvertibleP6tracksSayAA0c5TrackD0CGvgTq
 _$s10HaishinKit20MP4ReaderConvertibleP7executexyFTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4ReaderConvertible.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4ReaderConvertible.swift
 _$s10HaishinKit10PSIPointerP12pointerFields5UInt8VvgTj
 _$s10HaishinKit10PSIPointerP12pointerFields5UInt8VvsTj
 _$s10HaishinKit10PSIPointerP12pointerFields5UInt8VvMTj
@@ -7518,7 +7518,7 @@ _$s10HaishinKit15ProgramSpecificC14arrayOfPacketsySayAA8TSPacketVGs6UInt16VFTq
 _$s10HaishinKit15ProgramSpecificCN
 _$s10HaishinKit26ProgramAssociationSpecificCN
 _$s10HaishinKit18ProgramMapSpecificCN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/ProgramSpecific.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/ProgramSpecific.swift
 $ss22_ContiguousArrayBufferV20_consumeAndCreateNewAByxGyFSo08CMSampleC3Refa_Tg5
 $ss22_ContiguousArrayBufferV5countSivgSo08CMSampleC3Refa_Tg5
 $ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSnySiG_Tgq5
@@ -7623,7 +7623,7 @@ calculate
 _$sSo27AudioStreamBasicDescriptionVSQ10HaishinKitSQ2eeoiySbx_xtFZTW
 _$sSo27AudioStreamBasicDescriptionV10HaishinKitE2eeoiySbAB_ABtFZTf4nnd_n
 _$sSo27AudioStreamBasicDescriptionVSQ10HaishinKitMcMK
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/AudioStreamBasicDescription+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/AudioStreamBasicDescription+Extension.swift
 _$s10HaishinKit14RTMPStreamInfoV5clearyyFys5Int64VzXEfU_
 _$s10HaishinKit14RTMPStreamInfoVs28CustomDebugStringConvertibleAAsADP16debugDescriptionSSvgTW
 _$s10HaishinKit14RTMPStreamInfoVwCP
@@ -7639,7 +7639,7 @@ _$s10HaishinKit14RTMPStreamInfoVWV
 _$s10HaishinKit14RTMPStreamInfoVMf
 _$s10HaishinKit14RTMPStreamInfoVMF
 -private-discriminator _F8AA3F49BC55462A118DE7E3399FDDD7
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPStreamInfo.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPStreamInfo.swift
 $s10HaishinKit14RTMPStreamInfoVMa
 $s10HaishinKit14RTMPStreamInfoVwst
 $s10HaishinKit14RTMPStreamInfoVwet
@@ -7653,7 +7653,7 @@ currentBytesPerSecond.get
 resourceName.get
 byteCount.get
 -private-discriminator _67C20080DA64149A8ED39D086F57D7A7
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4File.Builder.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4File.Builder.swift
 _$s10HaishinKit7AnyUtilCfD
 _$s10HaishinKit7AnyUtilCMa
 _$s10HaishinKit7AnyUtilCMm
@@ -7665,7 +7665,7 @@ _symbolic _____ 10HaishinKit7AnyUtilC
 _$s10HaishinKit7AnyUtilCMF
 _$s10HaishinKit7AnyUtilCACycfCTq
 _$s10HaishinKit7AnyUtilCN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/AnyUtil.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/AnyUtil.swift
 $s10HaishinKit7AnyUtilCMa
 _$ss2eeoiySbx_xtSYRzSQ8RawValueRpzlF10HaishinKit14RTMPConnectionC4CodeO_TB5
 _$sSYsSHRzSH8RawValueSYRpzrlE04hashB0Sivg10HaishinKit14RTMPConnectionC4CodeO_TB5
@@ -7939,7 +7939,7 @@ _$s10HaishinKit14RTMPConnectionC11audioEngineSo07AVAudioE0CSgvMTq
 _$s10HaishinKit14RTMPConnectionC5close14isDisconnectedySb_tFTq
 _$s10HaishinKit14RTMPConnectionC12createStreamyyAA10RTMPStreamCFTq
 -private-discriminator _72746F5723BCF7120F9332C15C68E133
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPConnection.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPConnection.swift
 $sSa15replaceSubrange_4withySnySiG_qd__nt7ElementQyd__RszSlRd__lFSo17CMSampleBufferRefa_s15EmptyCollectionVyAGGTg5Tf4ndn_n
 Swift runtime failure: Array replace: subrange extends past the end
 Swift runtime failure: Array replace: subrange start is negative
@@ -8209,7 +8209,7 @@ _$s10HaishinKit28ElementaryStreamSpecificDataVs28CustomDebugStringConvertibleAAM
 _$s10HaishinKit28ElementaryStreamSpecificDataVs28CustomDebugStringConvertibleAAMc
 _$s10HaishinKit28ElementaryStreamSpecificDataVAA0F11ConvertibleAAMc
 _$s10HaishinKit28ElementaryStreamSpecificDataVAA0F11ConvertibleAAWP
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/ElementaryStreamSpecificData.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/ElementaryStreamSpecificData.swift
 $s10HaishinKit28ElementaryStreamSpecificDataVMa
 $s10HaishinKit28ElementaryStreamSpecificDataVwst
 $s10HaishinKit28ElementaryStreamSpecificDataVwet
@@ -8226,7 +8226,7 @@ _$sSsWOr
 _$ss13_StringObjectV7VariantOWOb
 _$ss13_StringObjectV7VariantOWOr
 _$sSlsSQ7ElementRpzrlE5split9separator9maxSplits25omittingEmptySubsequencesSay11SubSequenceQzGAB_SiSbtFSbABXEfU_SS_TG5TA.1
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/FilenameUtil.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/FilenameUtil.swift
 $ss13_StringObjectV7VariantOWOr
 $ss13_StringObjectV7VariantOWOb
 $sSsWOr
@@ -8268,7 +8268,7 @@ _$s10HaishinKit16FLVAVCPacketTypeOSYAAMcMK
 _$s10HaishinKit16FLVAVCPacketTypeOWV
 _$s10HaishinKit16FLVAVCPacketTypeOMf
 _$s10HaishinKit16FLVAVCPacketTypeOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVAVCPacketType.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVAVCPacketType.swift
 $s10HaishinKit16FLVAVCPacketTypeOMa
 $s10HaishinKit16FLVAVCPacketTypeOwui
 $s10HaishinKit16FLVAVCPacketTypeOwup
@@ -8604,7 +8604,7 @@ _$s10HaishinKit10RTMPStreamC5close13withLockQueueySb_tFTq
 _$s10HaishinKit10RTMPStreamC2on5timerySo7NSTimerC_tFTq
 _$s10HaishinKit10RTMPStreamC10ReadyStateON
 -private-discriminator _4DF1DFFE0BA2E326B2CF43E2ED890544
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPStream.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPStream.swift
 $s10HaishinKit10RTMPStreamC12receiveAudioSbvWyycfU_TA
 $s10HaishinKit10RTMPStreamC12receiveVideoSbvWyycfU_TA
 $s10HaishinKit10RTMPStreamC6pausedSbvWyycfU_TA
@@ -8784,7 +8784,7 @@ _$s10HaishinKit17MP4TrackHeaderBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit17MP4TrackHeaderBoxVAA0c4FullF0AAMc
 _$s10HaishinKit17MP4TrackHeaderBoxVAA0c4FullF0AAWP
 _$s10HaishinKit17MP4TrackHeaderBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4TrackHeaderBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4TrackHeaderBox.swift
 $s10HaishinKit17MP4TrackHeaderBoxVMa
 $s10HaishinKit17MP4TrackHeaderBoxVwst
 $s10HaishinKit17MP4TrackHeaderBoxVwet
@@ -8940,7 +8940,7 @@ _$s10HaishinKit12HTTPResponseV9separatorSays5UInt8VGvpZ
 _$s10HaishinKit10HLSServiceC7streamsSayAA10HTTPStreamCGvgTq
 _$s10HaishinKit10HLSServiceC15doOutputFromURL_3url6lengthyAA9NetClientC_10Foundation0G0VSitFTq
 -private-discriminator _A47B87099FAE051EB6AF0B09207AA0F0
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/HTTP/HLSService.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/HTTP/HLSService.swift
 $sSays5UInt8VGMa
 $sSSWOr
 $s10HaishinKit10NetServiceC10disconnectyyAA0C6ClientCFyyXEfU_TA
@@ -9200,7 +9200,7 @@ _$s10HaishinKit22MP4PixelAspectRatioBoxVAA26CustomXmlStringConvertibleAAWP
 _$s10HaishinKit22MP4PixelAspectRatioBoxVAA0cG11ConvertibleAAMc
 _$s10HaishinKit22MP4PixelAspectRatioBoxVAA0cG11ConvertibleAAWP
 _$s10HaishinKit22MP4PixelAspectRatioBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4PixelAspectRatioBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4PixelAspectRatioBox.swift
 $s10HaishinKit22MP4PixelAspectRatioBoxVMa
 $s10HaishinKit22MP4PixelAspectRatioBoxVwst
 $s10HaishinKit22MP4PixelAspectRatioBoxVwet
@@ -9210,7 +9210,7 @@ $s10HaishinKit22MP4PixelAspectRatioBoxVwcp
 $s10HaishinKit22MP4PixelAspectRatioBoxVwxx
 $s10HaishinKit22MP4PixelAspectRatioBoxVwCP
 _$sSo16CMBlockBufferRefa10HaishinKitE4data10Foundation4DataVSgvg
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/CMBlockBuffer+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/CMBlockBuffer+Extension.swift
 _$s10HaishinKit10MP4FullBoxP7versions5UInt8VvgTj
 _$s10HaishinKit10MP4FullBoxP5flagss6UInt32VvgTj
 _symbolic $s10HaishinKit10MP4FullBoxP
@@ -9219,7 +9219,7 @@ _$s10HaishinKit10MP4FullBoxTL
 _$s10HaishinKit10MP4FullBoxPAA0cE11ConvertibleTb
 _$s10HaishinKit10MP4FullBoxP7versions5UInt8VvgTq
 _$s10HaishinKit10MP4FullBoxP5flagss6UInt32VvgTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4FullBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4FullBox.swift
 _$s10HaishinKit11IOComponentCACycfcTo
 _$s10HaishinKit11IOComponentCfD
 _$s10HaishinKit11IOComponentCfETo
@@ -9233,7 +9233,7 @@ _$s10HaishinKit11IOComponentCMF
 _$s10HaishinKit11IOComponentC5mixerAA7AVMixerCSgvgTq
 _OBJC_CLASS_$__TtC10HaishinKit11IOComponent
 -private-discriminator _2C5036BDF5B71AD6DB36CACDEDB8960A
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/IOComponent.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/IOComponent.swift
 $s10HaishinKit11IOComponentCMa
 $s10HaishinKit11IOComponentCfETo
 _$s10HaishinKit18RTMPObjectEncodingOSQAASQ2eeoiySbx_xtFZTW
@@ -9258,7 +9258,7 @@ _$s10HaishinKit18RTMPObjectEncodingOSYAAMcMK
 _$s10HaishinKit18RTMPObjectEncodingOWV
 _$s10HaishinKit18RTMPObjectEncodingOMf
 _$s10HaishinKit18RTMPObjectEncodingOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPObjectEncoding.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPObjectEncoding.swift
 $s10HaishinKit18RTMPObjectEncodingOMa
 $s10HaishinKit18RTMPObjectEncodingOwui
 $s10HaishinKit18RTMPObjectEncodingOwup
@@ -9469,7 +9469,7 @@ _$s10HaishinKit10AVRecorderC10sourceTimeSo6CMTimeavgTq
 _$s10HaishinKit10AVRecorderC22isReadyForStartWritingSbvgTq
 _$s10HaishinKit10AVRecorderC13finishWritingyyFTq
 -private-discriminator _FA1B52B8A300F0BE55D74BA74AEA5990
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/AVRecorder.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/AVRecorder.swift
 $s10HaishinKit10AVRecorderC13finishWritingyyFyycfU_TA
 objectdestroy.21
 $sSS3key_yp5valuetSgWOb
@@ -9601,7 +9601,7 @@ $ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCSo11AVMe
 $ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFSo11AVMediaTypea_SDySSypGt_Tg5
 appendPixelBuffer
 -private-discriminator _864128348848FC0E6DEF7900641E6C46
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4MovieFragmentBox.Builder.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4MovieFragmentBox.Builder.swift
 _$s10HaishinKit25MP4MovieFragmentHeaderBoxVwCP
 _$s10HaishinKit25MP4MovieFragmentHeaderBoxVwxx
 _$s10HaishinKit25MP4MovieFragmentHeaderBoxVwcp
@@ -9627,7 +9627,7 @@ _$s10HaishinKit25MP4MovieFragmentHeaderBoxVAA0cG11ConvertibleAAWP
 _$s10HaishinKit25MP4MovieFragmentHeaderBoxVAA0c4FullG0AAMc
 _$s10HaishinKit25MP4MovieFragmentHeaderBoxVAA0c4FullG0AAWP
 _$s10HaishinKit25MP4MovieFragmentHeaderBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4MovieFragmentHeaderBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4MovieFragmentHeaderBox.swift
 $s10HaishinKit25MP4MovieFragmentHeaderBoxVMa
 $s10HaishinKit25MP4MovieFragmentHeaderBoxVwst
 $s10HaishinKit25MP4MovieFragmentHeaderBoxVwet
@@ -9673,7 +9673,7 @@ _$s10HaishinKit17RTMPMuxerDelegateP12sampleOutput5video13withTimestamp5muxery10F
 _$s10HaishinKit9RTMPMuxerCACycfCTq
 _$s10HaishinKit9RTMPMuxerCN
 -private-discriminator _3AC686278568A931301C5C4DA447F4F8
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPMuxer.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPMuxer.swift
 $s10HaishinKit17RTMPMuxerDelegate_pSgXwWOh
 Sources/ISO/AudioSpecificConfig.swift
 $s10HaishinKit9RTMPMuxerCMa
@@ -9699,7 +9699,7 @@ _$s10HaishinKit12FLVSoundTypeOSYAAMcMK
 _$s10HaishinKit12FLVSoundTypeOWV
 _$s10HaishinKit12FLVSoundTypeOMf
 _$s10HaishinKit12FLVSoundTypeOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVSoundType.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVSoundType.swift
 $s10HaishinKit12FLVSoundTypeOMa
 $s10HaishinKit12FLVSoundTypeOwui
 $s10HaishinKit12FLVSoundTypeOwup
@@ -9737,7 +9737,7 @@ _$s10HaishinKit9NetSocketC14CircularBufferVs28CustomDebugStringConvertibleAAMcMK
 _$s10HaishinKit9NetSocketC14CircularBufferVs28CustomDebugStringConvertibleAAMc
 _$s10HaishinKit9NetSocketC14CircularBufferVN
 -private-discriminator _6C22F5F1327BF49E3EB4BB80A5EA7A96
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Net/NetSocket.CircularBuffer.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Net/NetSocket.CircularBuffer.swift
 $s10HaishinKit9NetSocketC14CircularBufferV6append_6lockedSb10Foundation4DataV_Spys6UInt32VGSgtFSbSwXEfU_Tf4xnnnnn_n
 $s10Foundation4DataV15_RepresentationO22withUnsafeMutableBytesyxxSwKXEKlFSb_Tg5072$s10HaishinKit9NetSocketC14CircularBufferV6append_6lockedSb10Foundation4B28V_Spys6UInt32VGSgtFSbSwXEfU_AC0I3Kit0kL0C0nO0VS2iSpys0U0VGSgTf1cn_nTf4ngnnnn_n
 $s10Foundation4DataV06InlineB0V22withUnsafeMutableBytesyxxSwKXEKlFSb_Tg5
@@ -9779,10 +9779,10 @@ $s10HaishinKit9NetSocketC14CircularBufferVwcp
 $s10HaishinKit9NetSocketC14CircularBufferVwxx
 $s10HaishinKit9NetSocketC14CircularBufferVwCP
 -private-discriminator _1C475C4FF2B89BBEF42C692E19475D64
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4TrackFragmentBox.Builder.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4TrackFragmentBox.Builder.swift
 _$sSo8UIDeviceCMa
 _$sSo8UIDeviceCML
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Platforms/iOS/DeviceUtil+Extenstion.swift
+/Users/iphong/Desktop/HaishinKit.swift/Platforms/iOS/DeviceUtil+Extenstion.swift
 videoOrientation
 $sSo8UIDeviceCMa
 _$s10HaishinKit22MP4AVCConfigurationBoxVwCP
@@ -9806,7 +9806,7 @@ _$s10HaishinKit22MP4AVCConfigurationBoxVAA26CustomXmlStringConvertibleAAWP
 _$s10HaishinKit22MP4AVCConfigurationBoxVAA0cE11ConvertibleAAMc
 _$s10HaishinKit22MP4AVCConfigurationBoxVAA0cE11ConvertibleAAWP
 _$s10HaishinKit22MP4AVCConfigurationBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4AVCConfigurationBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4AVCConfigurationBox.swift
 $s10HaishinKit22MP4AVCConfigurationBoxVMa
 $s10HaishinKit22MP4AVCConfigurationBoxVwst
 $s10HaishinKit22MP4AVCConfigurationBoxVwet
@@ -9841,7 +9841,7 @@ _$s10HaishinKit17MP4MovieHeaderBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit17MP4MovieHeaderBoxVAA0c4FullF0AAMc
 _$s10HaishinKit17MP4MovieHeaderBoxVAA0c4FullF0AAWP
 _$s10HaishinKit17MP4MovieHeaderBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4MovieHeaderBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4MovieHeaderBox.swift
 $s10HaishinKit17MP4MovieHeaderBoxVMa
 $s10HaishinKit17MP4MovieHeaderBoxVwst
 $s10HaishinKit17MP4MovieHeaderBoxVwet
@@ -9898,7 +9898,7 @@ _$s10HaishinKit7NALTypeOSQAAMcMK
 _$s10HaishinKit7NALTypeOSQAAMc
 _$s10HaishinKit7NALUnitVN
 _$s10HaishinKit7NALTypeON
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/NALUnit.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/NALUnit.swift
 $s10HaishinKit7NALTypeOACSQAAWl
 $s10HaishinKit7NALTypeOSHAASQWb
 $s10HaishinKit7NALTypeOMa
@@ -9916,7 +9916,7 @@ $s10HaishinKit7NALUnitVwca
 $s10HaishinKit7NALUnitVwcp
 $s10HaishinKit7NALUnitVwxx
 $s10HaishinKit7NALUnitVwCP
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/CVPixelBuffer+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/CVPixelBuffer+Extension.swift
 _$s10HaishinKit12FLVSoundSizeOSQAASQ2eeoiySbx_xtFZTW
 _$s10HaishinKit12FLVSoundSizeOSHAASQWb
 _$s10HaishinKit12FLVSoundSizeOACSQAAWl
@@ -9939,7 +9939,7 @@ _$s10HaishinKit12FLVSoundSizeOSYAAMcMK
 _$s10HaishinKit12FLVSoundSizeOWV
 _$s10HaishinKit12FLVSoundSizeOMf
 _$s10HaishinKit12FLVSoundSizeOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVSoundSize.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVSoundSize.swift
 $s10HaishinKit12FLVSoundSizeOMa
 $s10HaishinKit12FLVSoundSizeOwui
 $s10HaishinKit12FLVSoundSizeOwup
@@ -9953,8 +9953,8 @@ _symbolic $s10HaishinKit26CustomXmlStringConvertibleP
 _$s10HaishinKit26CustomXmlStringConvertible_pMF
 _$s10HaishinKit26CustomXmlStringConvertibleTL
 _$s10HaishinKit26CustomXmlStringConvertibleP03xmlE0SSvgTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/CustomXmlStringConvertible.swift
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/Data+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/CustomXmlStringConvertible.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/Data+Extension.swift
 $ss32_copyCollectionToContiguousArrayys0dE0Vy7ElementQzGxSlRzlFs0E5SliceVy10HaishinKit12M3UMediaInfoVG_Tg5Tf4x_n
 $ss10ArraySliceVyxGSlsSl5countSivgTW10HaishinKit12M3UMediaInfoV_Tg5
 $ss10ArraySliceV5countSivg10HaishinKit12M3UMediaInfoV_Tg5
@@ -10007,7 +10007,7 @@ _$s10HaishinKit32MP4ElementaryStreamDescriptorBoxVAA0cG11ConvertibleAAWP
 _$s10HaishinKit32MP4ElementaryStreamDescriptorBoxVAA0c4FullG0AAMc
 _$s10HaishinKit32MP4ElementaryStreamDescriptorBoxVAA0c4FullG0AAWP
 _$s10HaishinKit32MP4ElementaryStreamDescriptorBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4ElementaryStreamDescriptorBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4ElementaryStreamDescriptorBox.swift
 $s10HaishinKit32MP4ElementaryStreamDescriptorBoxVMa
 $s10HaishinKit32MP4ElementaryStreamDescriptorBoxVwst
 $s10HaishinKit32MP4ElementaryStreamDescriptorBoxVwet
@@ -10043,7 +10043,7 @@ _$s10HaishinKit25MP4TrackFragmentHeaderBoxVAA15DataConvertibleAAMc
 _$s10HaishinKit25MP4TrackFragmentHeaderBoxVAA15DataConvertibleAAWP
 _$s10HaishinKit25MP4TrackFragmentHeaderBoxVN
 -private-discriminator _C88B17E79617510223DCD56EE805A4BA
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4TrackFragmentHeaderBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4TrackFragmentHeaderBox.swift
 $s10HaishinKit25MP4TrackFragmentHeaderBoxVMa
 $s10HaishinKit25MP4TrackFragmentHeaderBoxVwst
 $s10HaishinKit25MP4TrackFragmentHeaderBoxVwet
@@ -10076,7 +10076,7 @@ _$s10HaishinKit18SLConfigDescriptorVACSQAAWL
 _$s10HaishinKit18SLConfigDescriptorVAA04BaseD0AAMcMK
 _$s10HaishinKit18SLConfigDescriptorVAA04BaseD0AAMc
 _$s10HaishinKit18SLConfigDescriptorVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/SLConfigDescriptor.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/SLConfigDescriptor.swift
 $s10HaishinKit18SLConfigDescriptorVACSQAAWl
 $s10HaishinKit18SLConfigDescriptorVACs28CustomDebugStringConvertibleAAWl
 $s10HaishinKit18SLConfigDescriptorVAA04BaseD0AAWI
@@ -10207,7 +10207,7 @@ _$s10HaishinKit5EventC4NameV7ioErrorAEvpZ
 _$s10HaishinKit12RTMPNWSocketCACycfCTq
 _$s10HaishinKit12RTMPNWSocketCN
 -private-discriminator _1BEAE5F048E47CB8A8432C446B1AEB9B
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPNWSocket.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPNWSocket.swift
 $s10HaishinKit12RTMPNWSocketC8doOutput4data6lockedSi10Foundation4DataV_Spys6UInt32VGSgtFyycfU0_y7Network7NWErrorOSgcfU_ys5Int64VzXEfU0_TA
 $s10HaishinKit12RTMPNWSocketC8doOutput4data6lockedSi10Foundation4DataV_Spys6UInt32VGSgtFyycfU0_y7Network7NWErrorOSgcfU_ys5Int64VzXEfU0_
 $s10HaishinKit12RTMPNWSocketC8doOutput4data6lockedSi10Foundation4DataV_Spys6UInt32VGSgtFyycfU0_y7Network7NWErrorOSgcfU_TA
@@ -10260,7 +10260,7 @@ _$s10HaishinKit5CRC32Cs28CustomDebugStringConvertibleAAMcMK
 _$s10HaishinKit5CRC32Cs28CustomDebugStringConvertibleAAMc
 _$s10HaishinKit5CRC32C10polynomialACs6UInt32V_tcfCTq
 _$s10HaishinKit5CRC32CN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/CRC32.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/CRC32.swift
 $s10HaishinKit5CRC32CMa
 $sSa11_getElement_20wasNativeTypeChecked22matchingSubscriptCheckxSi_Sbs16_DependenceTokenVtFs6UInt32V_Tg5
 $sSa15_checkSubscript_20wasNativeTypeCheckeds16_DependenceTokenVSi_SbtFs6UInt32V_Tg5
@@ -10272,7 +10272,7 @@ $sSa22_allocateUninitializedySayxG_SpyxGtSiFZs6UInt32V_Tg5
 $ss12_ArrayBufferV19firstElementAddressSpyxGvgs6UInt32V_Tg5
 $sSa19_uninitializedCountSayxGSi_tcfCs6UInt32V_Tg5
 $s10HaishinKit5CRC32C5MPEG2_WZ
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/CMAudioFormatDescription+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/CMAudioFormatDescription+Extension.swift
 _$s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVwCP
 _$s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVwxx
 _$s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVwcp
@@ -10296,7 +10296,7 @@ _$s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVAA26CustomXmlStringConve
 _$s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVAA0cJ11ConvertibleAAMc
 _$s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVAA0cJ11ConvertibleAAWP
 _$s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4TrackFragmentBaseMediaDecodeTimeBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4TrackFragmentBaseMediaDecodeTimeBox.swift
 $s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVMa
 $s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVwst
 $s10HaishinKit38MP4TrackFragmentBaseMediaDecodeTimeBoxVwet
@@ -10380,7 +10380,7 @@ _$s10HaishinKit9NetSocketC11inputBuffer10Foundation4DataVvpWvd
 _$s10HaishinKit10RTMPSocketCN
 _OBJC_CLASS_$__TtC10HaishinKit10RTMPSocket
 -private-discriminator _4F343B7CC1214E6583FD9C41255A1F52
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPSocket.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPSocket.swift
 $s10HaishinKit10RTMPSocketCMr
 $s10HaishinKit10RTMPSocketCMa
 $s10HaishinKit10RTMPSocketCMU
@@ -10573,7 +10573,7 @@ _$s10HaishinKit13AMFSerializerP11deserializeypSgyKFTq
 _$s10HaishinKit14AMF0SerializerCN
 _$s10HaishinKit18AMFSerializerErrorON
 -private-discriminator _F3B6DE8A9AD52D414720DBDE643A82FA
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/AMF0Serializer.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/AMF0Serializer.swift
 $s10HaishinKit18AMFSerializerErrorOACSQAAWl
 $s10HaishinKit18AMFSerializerErrorOSHAASQWb
 $s10HaishinKit18AMFSerializerErrorOMa
@@ -10626,7 +10626,7 @@ _$s10HaishinKit19DecoderSpecificInfoVAA14BaseDescriptorAAMcMK
 _$s10HaishinKit19DecoderSpecificInfoVAA14BaseDescriptorAAMc
 _$s10HaishinKit19DecoderSpecificInfoVN
 -private-discriminator _3C8A7FB67DCC2B9847CE9AD92FEED5AC
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/DecoderSpecificInfo.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/DecoderSpecificInfo.swift
 $s10HaishinKit19DecoderSpecificInfoVACSQAAWl
 $s10HaishinKit19DecoderSpecificInfoVACs28CustomDebugStringConvertibleAAWl
 $s10HaishinKit19DecoderSpecificInfoVAA14BaseDescriptorAAWI
@@ -10821,7 +10821,7 @@ _$s10HaishinKit10AudioCodecC7effectsShyAA0C6EffectCGvMTq
 _$s10HaishinKit10AudioCodecC10invalidateyyFTq
 _$s10HaishinKit10AudioCodecC014onInputDataForC9Converter_02ioG003outG17PacketDescriptions5Int32VSpys6UInt32VG_SpySo0C10BufferListVGSpySpySo0c6StreamlM0VGSgGSgtFTq
 -private-discriminator _CF3AC76743AF0D2D805C81307BC57005
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Codec/AudioCodec.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Codec/AudioCodec.swift
 $s10HaishinKit10AudioCodecC7bitrates6UInt32VvWyycfU_TA
 $s10HaishinKit10AudioCodecC7bitrates6UInt32VvWyycfU_
 _inDestinationFormat.get
@@ -10931,7 +10931,7 @@ _symbolic _____Sg s6MirrorV
 _$ss6MirrorVSgMD
 _symbolic SSSg5label_yp5valuet
 _$sSSSg5label_yp5valuetMD
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/Mirror+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/Mirror+Extension.swift
 $ss6MirrorVSgWOh
 $sSaySSGMa
 $ss13AnyCollectionV12makeIterators0aD0VyxGyFSSSg5label_yp5valuet_Tg5
@@ -10954,7 +10954,7 @@ _$s10HaishinKit10AudioCodecC11DestinationOSHAAMcMK
 _$s10HaishinKit10AudioCodecC11DestinationOWV
 _$s10HaishinKit10AudioCodecC11DestinationOMf
 _$s10HaishinKit10AudioCodecC11DestinationOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Codec/AudioCodec.Destination.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Codec/AudioCodec.Destination.swift
 $s10HaishinKit10AudioCodecC11DestinationOMa
 $s10HaishinKit10AudioCodecC11DestinationOwui
 $s10HaishinKit10AudioCodecC11DestinationOwup
@@ -10965,8 +10965,8 @@ $s10HaishinKit10AudioCodecC11DestinationOAESQAAWl
 $s10HaishinKit10AudioCodecC11DestinationOSHAASQWb
 _symbolic $s10HaishinKit7RunningP
 _$s10HaishinKit7Running_pMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/Running.swift
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/ElementaryStreamType.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/Running.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/ElementaryStreamType.swift
 _$s10HaishinKit13RTMPHandshakeCfD
 _$s10HaishinKit13RTMPHandshakeC7sigSizeSivpZ
 _$s10HaishinKit13RTMPHandshakeC15protocolVersions5UInt8VvpZ
@@ -10979,7 +10979,7 @@ _$s10HaishinKit13RTMPHandshakeCMf
 _$s10HaishinKit13RTMPHandshakeCMF
 _$s10HaishinKit13RTMPHandshakeCACycfCTq
 _$s10HaishinKit13RTMPHandshakeCN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/RTMPHandshake.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/RTMPHandshake.swift
 $s10HaishinKit13RTMPHandshakeCMa
 c2packet
 c0c1packet.get
@@ -11012,7 +11012,7 @@ _$s10HaishinKit17MP4ChunkOffsetBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit17MP4ChunkOffsetBoxVAA0c4FullF0AAMc
 _$s10HaishinKit17MP4ChunkOffsetBoxVAA0c4FullF0AAWP
 _$s10HaishinKit17MP4ChunkOffsetBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4ChunkOffsetBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4ChunkOffsetBox.swift
 $s10HaishinKit17MP4ChunkOffsetBoxVMa
 $s10HaishinKit17MP4ChunkOffsetBoxVwst
 $s10HaishinKit17MP4ChunkOffsetBoxVwet
@@ -11060,7 +11060,7 @@ _$s10HaishinKit19MP4SampleToChunkBoxV5EntryVSQAAMcMK
 _$s10HaishinKit19MP4SampleToChunkBoxV5EntryVSQAAMc
 _$s10HaishinKit19MP4SampleToChunkBoxVN
 _$s10HaishinKit19MP4SampleToChunkBoxV5EntryVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4SampleToChunkBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4SampleToChunkBox.swift
 $s10HaishinKit19MP4SampleToChunkBoxV5EntryVMa
 $s10HaishinKit19MP4SampleToChunkBoxV5EntryVwst
 $s10HaishinKit19MP4SampleToChunkBoxV5EntryVwet
@@ -11075,7 +11075,7 @@ $s10HaishinKit19MP4SampleToChunkBoxVwCP
 _symbolic SDy_____ypG So11CFStringRefa
 _$sSDySo11CFStringRefaypGMD
 -private-discriminator _2B469F3D4FF0DADDFAF563C9D67C757E
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/CMSampleBuffer+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/CMSampleBuffer+Extension.swift
 isNotSync.get
 getAttachmentValue
 $ss17_NativeDictionaryV7_valuesSpyq_GvgSo11CFStringRefa_ypTg5
@@ -11091,13 +11091,13 @@ $ss45_conditionallyBridgeFromObjectiveC_bridgeableyxSg01_D5CTypeQz_xmts01_D11CBr
 $sSayxGs21_ObjectiveCBridgeable10FoundationsABP024_conditionallyBridgeFromA1C_6resultSb01_A5CTypeQz_xSgztFZTWSDySo11CFStringRefaypG_Tg5
 isNotSync.set
 setAttachmentValue
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/CMVideoFormatDescription+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/CMVideoFormatDescription+Extension.swift
 _$s10HaishinKit9NetStreamC11orientationSo25AVCaptureVideoOrientationVvpACTK
 _$s10HaishinKit9NetStreamC11orientationSo25AVCaptureVideoOrientationVvpACTk
 _$s10HaishinKit9NetStreamC11orientationSo25AVCaptureVideoOrientationVvM.resume.0
 _$s10HaishinKit9NetStreamC12attachScreen_03useF4SizeyAA25CaptureSessionConvertible_pSg_SbtFyycfU_
 _$s10HaishinKit9NetStreamC12attachScreen_03useF4SizeyAA25CaptureSessionConvertible_pSg_SbtFyycfU_TA
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Platforms/iOS/NetStream+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Platforms/iOS/NetStream+Extension.swift
 $s10HaishinKit9NetStreamC12attachScreen_03useF4SizeyAA25CaptureSessionConvertible_pSg_SbtFyycfU_TA
 zoomFactor.get
 Platforms/iOS/VideoIOComponent+Extension.swift
@@ -11146,7 +11146,7 @@ _$s10HaishinKit18MP4TimeToSampleBoxV5EntryVSQAAMcMK
 _$s10HaishinKit18MP4TimeToSampleBoxV5EntryVSQAAMc
 _$s10HaishinKit18MP4TimeToSampleBoxVN
 _$s10HaishinKit18MP4TimeToSampleBoxV5EntryVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4TimeToSampleBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4TimeToSampleBox.swift
 $s10HaishinKit18MP4TimeToSampleBoxV5EntryVMa
 $s10HaishinKit18MP4TimeToSampleBoxV5EntryVwst
 $s10HaishinKit18MP4TimeToSampleBoxV5EntryVwet
@@ -11160,7 +11160,7 @@ $s10HaishinKit18MP4TimeToSampleBoxVwxx
 $s10HaishinKit18MP4TimeToSampleBoxVwCP
 _symbolic $s10HaishinKit20MP4WriterConvertibleP
 _$s10HaishinKit20MP4WriterConvertible_pMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4WriterConvertible.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4WriterConvertible.swift
 _$s10HaishinKit18MP4SegmentIndexBoxVwxx
 _$s10HaishinKit18MP4SegmentIndexBoxVwcp
 _$s10HaishinKit18MP4SegmentIndexBoxVwca
@@ -11202,7 +11202,7 @@ _$s10HaishinKit18MP4SegmentIndexBoxV9ReferenceVSQAAMcMK
 _$s10HaishinKit18MP4SegmentIndexBoxV9ReferenceVSQAAMc
 _$s10HaishinKit18MP4SegmentIndexBoxVN
 _$s10HaishinKit18MP4SegmentIndexBoxV9ReferenceVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4SegmentIndexBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4SegmentIndexBox.swift
 $s10HaishinKit18MP4SegmentIndexBoxV9ReferenceVMa
 $s10HaishinKit18MP4SegmentIndexBoxV9ReferenceVwst
 $s10HaishinKit18MP4SegmentIndexBoxV9ReferenceVwet
@@ -11216,13 +11216,13 @@ __swift_memcpy68_8
 $s10HaishinKit18MP4SegmentIndexBoxVwca
 $s10HaishinKit18MP4SegmentIndexBoxVwcp
 $s10HaishinKit18MP4SegmentIndexBoxVwxx
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4Util.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4Util.swift
 _$s10Foundation13URLComponentsVSgWOh
 _$s10Foundation13URLComponentsVSgWOhTm
 _got.$s10Foundation13URLComponentsVMn
 _symbolic _____Sg 10Foundation13URLComponentsV
 _$s10Foundation13URLComponentsVSgMD
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/URL+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/URL+Extension.swift
 $s10Foundation13URLComponentsVSgWOh
 absoluteWithoutAuthenticationString.get
 dictionaryFromQuery
@@ -11257,7 +11257,7 @@ _$s10HaishinKit17MP4BoxConvertibleP6offsets6UInt64VvMTq
 _$s10HaishinKit17MP4BoxConvertibleP8childrenSayAaB_pGvgTq
 _$s10HaishinKit17MP4BoxConvertiblePxycfCTq
 _$s10HaishinKit17MP4BoxConvertibleP8getBoxes2bySayqd__GAA0cD0V4NameCy_qd__G_tAaBRd__lFTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4BoxConvertible.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4BoxConvertible.swift
 _$s10HaishinKit9ByteArrayC6lengthSivM.resume.0
 _$s10HaishinKit9ByteArrayC8positionSivM.resume.0
 _$s10HaishinKit9ByteArrayCys5UInt8VSiciM.resume.0
@@ -11429,7 +11429,7 @@ _$s10HaishinKit9ByteArrayC4data10Foundation4DataVvgTq
 _$s10HaishinKit9ByteArrayC8sequence_6lambdaySi_yACXEtFTq
 _$s10HaishinKit9ByteArrayC8toUInt32Says0F0VGyFTq
 -private-discriminator _52311F6AD20B1003AD8EC03FD3AD4A59
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/ByteArray.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/ByteArray.swift
 $sSWs5Error_pIgyzo_SWytsAA_pIegyrzo_TRTA
 $s10Foundation4DataV6append10contentsOfyx_tSTRzs5UInt8V7ElementRtzlFySWXEfU_TA
 $s10Foundation4DataV6append10contentsOfyx_tSTRzs5UInt8V7ElementRtzlFySWXEfU_
@@ -11568,7 +11568,7 @@ _$s10HaishinKit18MP4TrackExtendsBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit18MP4TrackExtendsBoxVAA0c4FullF0AAMc
 _$s10HaishinKit18MP4TrackExtendsBoxVAA0c4FullF0AAWP
 _$s10HaishinKit18MP4TrackExtendsBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4TrackExtendsBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4TrackExtendsBox.swift
 $s10HaishinKit18MP4TrackExtendsBoxVMa
 $s10HaishinKit18MP4TrackExtendsBoxVwst
 $s10HaishinKit18MP4TrackExtendsBoxVwet
@@ -11680,7 +11680,7 @@ _$s10HaishinKit19AudioSpecificConfigV20ChannelConfigurationOSQAAMc
 _$s10HaishinKit19AudioSpecificConfigV20ChannelConfigurationON
 _$s10HaishinKit19AudioSpecificConfigV17SamplingFrequencyON
 _$s10HaishinKit19AudioSpecificConfigV0C10ObjectTypeON
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/AudioSpecificConfig.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/AudioSpecificConfig.swift
 $s10HaishinKit19AudioSpecificConfigV20ChannelConfigurationOAESQAAWl
 $s10HaishinKit19AudioSpecificConfigV20ChannelConfigurationOSHAASQWb
 $s10HaishinKit19AudioSpecificConfigV17SamplingFrequencyOAESQAAWl
@@ -11732,7 +11732,7 @@ _$s10HaishinKit12FLVFrameTypeOSYAAMcMK
 _$s10HaishinKit12FLVFrameTypeOWV
 _$s10HaishinKit12FLVFrameTypeOMf
 _$s10HaishinKit12FLVFrameTypeOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVFrameType.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVFrameType.swift
 $s10HaishinKit12FLVFrameTypeOMa
 $s10HaishinKit12FLVFrameTypeOwui
 $s10HaishinKit12FLVFrameTypeOwup
@@ -11759,7 +11759,7 @@ __DATA__TtC10HaishinKit11VideoEffect
 _$s10HaishinKit11VideoEffectCMf
 _symbolic _____ 10HaishinKit11VideoEffectC
 _$s10HaishinKit11VideoEffectCMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/VideoEffect.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/VideoEffect.swift
 $s10HaishinKit11VideoEffectCfETo
 $s10HaishinKit11VideoEffectCMa
 ciContext.modify
@@ -11768,7 +11768,7 @@ ciContext.get
 $s10HaishinKit11VideoEffectC9ciContextSo9CIContextCSgvpACTk
 $s10HaishinKit11VideoEffectC9ciContextSo9CIContextCSgvpACTK
 _$s10HaishinKit6logger8LogboardACCvau
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/Constants.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/Constants.swift
 $s10HaishinKit6logger_WZ
 _$s10HaishinKit15DataConvertibleP4data10Foundation0C0VvgTj
 _$s10HaishinKit15DataConvertibleP4data10Foundation0C0VvsTj
@@ -11779,7 +11779,7 @@ _$s10HaishinKit15DataConvertibleTL
 _$s10HaishinKit15DataConvertibleP4data10Foundation0C0VvgTq
 _$s10HaishinKit15DataConvertibleP4data10Foundation0C0VvsTq
 _$s10HaishinKit15DataConvertibleP4data10Foundation0C0VvMTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/DataConvertible.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/DataConvertible.swift
 _$s10HaishinKit11HTTPVersionOSQAASQ2eeoiySbx_xtFZTW
 _$s10HaishinKit11HTTPVersionOSHAASH9hashValueSivgTW
 _$s10HaishinKit11HTTPVersionOSHAASH4hash4intoys6HasherVz_tFTW
@@ -11871,7 +11871,7 @@ _$s10HaishinKit11HTTPServiceC6client11inputBufferyAA9NetClientC_tFTq
 _$s10HaishinKit11HTTPServiceC8notFound_6clientyAA11HTTPRequestV_AA9NetClientCtFTq
 _$s10HaishinKit11HTTPVersionON
 _$s10HaishinKit14HTTPStatusCodeON
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/HTTP/HTTPService.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/HTTP/HTTPService.swift
 $s10HaishinKit11HTTPVersionOACSQAAWl
 $s10HaishinKit11HTTPVersionOSHAASQWb
 $s10HaishinKit14HTTPStatusCodeOACSQAAWl
@@ -11946,7 +11946,7 @@ _$s10HaishinKit10DeviceUtilVMf
 _symbolic _____ 10HaishinKit10DeviceUtilV
 _$s10HaishinKit10DeviceUtilVMF
 _$sSo16AVFrameRateRangeCML
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/DeviceUtil.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/DeviceUtil.swift
 $ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSo08CMSampleC3Refa_Tg5
 $ss22_ContiguousArrayBufferV26mutableFirstElementAddressSpyxGvgSo08CMSampleC3Refa_Tg5
 $ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCSo08CMSampleC3Refa_Tg5
@@ -12121,7 +12121,7 @@ _$s10HaishinKit8GLHKViewC11orientationSo25AVCaptureVideoOrientationVvgTq
 _$s10HaishinKit8GLHKViewC11orientationSo25AVCaptureVideoOrientationVvsTq
 _$s10HaishinKit8GLHKViewC11orientationSo25AVCaptureVideoOrientationVvMTq
 -private-discriminator _EE8A58BE029732FFF303C22185033856
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/GLHKView.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/GLHKView.swift
 $sSo6NSNullCMa
 $s10HaishinKit8GLHKViewC13currentStream33_EE8A58BE029732FFF303C22185033856LLAA03NetE0CSgvWyycfU_TA
 glkView
@@ -12152,7 +12152,7 @@ _$s10HaishinKit14BaseDescriptorPs28CustomDebugStringConvertibleTb
 _$s10HaishinKit14BaseDescriptorPSQTb
 _$s10HaishinKit14BaseDescriptorP3tags5UInt8VvgTq
 _$s10HaishinKit14BaseDescriptorP4sizes6UInt32VvgTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/BaseDescriptor.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/BaseDescriptor.swift
 _$s10HaishinKit31HKPictureInPicureControllerImplC6margin_WZ
 _$s10HaishinKit31HKPictureInPicureControllerImplC6margin12CoreGraphics7CGFloatVvau
 _$s10HaishinKit31HKPictureInPicureControllerImplC8position_WZ
@@ -12268,7 +12268,7 @@ _$s10HaishinKit31HKPictureInPicureControllerImplC012startPicturedI0yyFTq
 _$s10HaishinKit31HKPictureInPicureControllerImplC011stopPicturedI0yyFTq
 _$s10HaishinKit31HKPictureInPicureControllerImplCN
 -private-discriminator _12F3F240FEEBF4C5FBF174A6DD8BBD81
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/PiP/HKPictureInPicureControllerImpl.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/PiP/HKPictureInPicureControllerImpl.swift
 $s10HaishinKit31HKPictureInPicureControllerImplC12cornerRadius12CoreGraphics7CGFloatVvau
 $s10HaishinKit31HKPictureInPicureControllerImplC8positionAA0cdeF8PositionOvau
 $s10HaishinKit31HKPictureInPicureControllerImplC6margin12CoreGraphics7CGFloatVvau
@@ -12323,7 +12323,7 @@ _$s10HaishinKit8TSPacketVWV
 _$s10HaishinKit8TSPacketVMf
 _$s10HaishinKit8TSPacketVMF
 -private-discriminator _7C1CC530D7C3605F0A7A02924901FC0A
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/TS/TSPacket.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/TS/TSPacket.swift
 $s10HaishinKit8TSPacketVMa
 $s10HaishinKit8TSPacketVwst
 $s10HaishinKit8TSPacketVwet
@@ -12362,7 +12362,7 @@ _$s10HaishinKit16MP4SampleSizeBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit16MP4SampleSizeBoxVAA0c4FullF0AAMc
 _$s10HaishinKit16MP4SampleSizeBoxVAA0c4FullF0AAWP
 _$s10HaishinKit16MP4SampleSizeBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4SampleSizeBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4SampleSizeBox.swift
 $s10HaishinKit16MP4SampleSizeBoxVMa
 $s10HaishinKit16MP4SampleSizeBoxVwst
 $s10HaishinKit16MP4SampleSizeBoxVwet
@@ -12399,7 +12399,7 @@ _$s10HaishinKit19MP4AudioSampleEntryVAA0ceF0AAMc
 _$s10HaishinKit19MP4AudioSampleEntryVAA0ceF0AAWP
 _got.$s10HaishinKit14MP4SampleEntryMp
 _$s10HaishinKit19MP4AudioSampleEntryVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4AudioSampleEntry.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4AudioSampleEntry.swift
 $s10HaishinKit19MP4AudioSampleEntryVMa
 $s10HaishinKit19MP4AudioSampleEntryVwst
 $s10HaishinKit19MP4AudioSampleEntryVwet
@@ -12553,7 +12553,7 @@ _$ss18_DictionaryStorageCys11AnyHashableVypGMD
 _symbolic ______ypt s11AnyHashableV
 _$ss11AnyHashableV_yptMD
 -private-discriminator _DDA58DC857E467F457BD2A88EAA9C931
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/EventDispatcher.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/EventDispatcher.swift
 $s10HaishinKit15EventDispatcherCMa
 $s10HaishinKit5EventC4NameVMa
 $s10HaishinKit5EventC4NameVwst
@@ -12820,7 +12820,7 @@ _$s10HaishinKit10NetServiceC10disconnectyyAA0C6ClientCFTq
 _$s10HaishinKit10NetServiceC16willStartRunningyyFTq
 _$s10HaishinKit10NetServiceC15willStopRunningyyFTq
 -private-discriminator _C03C4103DF12836A2705D56042D412C8
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Net/NetService.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Net/NetService.swift
 $s10HaishinKit10NetServiceC03netD0_23didAcceptConnectionWith12outputStreamySo05NSNetD0C_So07NSInputK0CSo08NSOutputK0CtFyyXEfU_TA
 $s10HaishinKit10NetServiceC16willStartRunningyyFyycfU_TA
 $s10HaishinKit10NetServiceC16willStartRunningyyFyycfU_
@@ -12993,7 +12993,7 @@ _$s10HaishinKit9NetSocketC10inputQueueSo17OS_dispatch_queueCvsTq
 _$s10HaishinKit9NetSocketC10inputQueueSo17OS_dispatch_queueCvMTq
 _$s10HaishinKit9NetSocketC5close14isDisconnectedySb_tFTq
 -private-discriminator _2F19F15DB5A1ACFB712D8A74CB6C271F
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Net/NetSocket.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Net/NetSocket.swift
 $s10HaishinKit9NetSocketC5close14isDisconnectedySb_tFyycfU_TA
 $s10HaishinKit9NetSocketC5close14isDisconnectedySb_tFyycfU_
 objectdestroy.27
@@ -13084,7 +13084,7 @@ _$s10HaishinKit13FLVAudioCodecOSYAAMcMK
 _$s10HaishinKit13FLVAudioCodecOWV
 _$s10HaishinKit13FLVAudioCodecOMf
 _$s10HaishinKit13FLVAudioCodecOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVAudioCodec.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVAudioCodec.swift
 $s10HaishinKit13FLVAudioCodecOMa
 $s10HaishinKit13FLVAudioCodecOwui
 $s10HaishinKit13FLVAudioCodecOwup
@@ -13116,7 +13116,7 @@ _$s10HaishinKit16FLVAACPacketTypeOSYAAMcMK
 _$s10HaishinKit16FLVAACPacketTypeOWV
 _$s10HaishinKit16FLVAACPacketTypeOMf
 _$s10HaishinKit16FLVAACPacketTypeOMF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/FLV/FLVAACPacket.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/FLV/FLVAACPacket.swift
 $s10HaishinKit16FLVAACPacketTypeOMa
 $s10HaishinKit16FLVAACPacketTypeOwui
 $s10HaishinKit16FLVAACPacketTypeOwup
@@ -13187,7 +13187,7 @@ _$s10HaishinKit12M3UMediaInfoVSgMD
 _$s10HaishinKit10HTTPStreamC4nameSSSgvgTq
 _$s10HaishinKit10HTTPStreamC11getResourceyAA4MIMEO_SStSgSSFTq
 -private-discriminator _97560247D782EBAAE97FF095463E40B9
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/HTTP/HTTPStream.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/HTTP/HTTPStream.swift
 $ss10_NativeSetV_8capacityAByxGs07__CocoaB0Vn_SitcfC10HaishinKit11VideoEffectC_Tg5Tf4gnd_n
 $ss10_NativeSetV9insertNew_8isUniqueyxn_SbtF10HaishinKit11VideoEffectC_Tg5
 $ss10_NativeSetV16_unsafeInsertNewyyxnF10HaishinKit11VideoEffectC_Tg5
@@ -13263,7 +13263,7 @@ _$s10HaishinKit20MP4VisualSampleEntryVAA0C14BoxConvertibleAAWP
 _$s10HaishinKit20MP4VisualSampleEntryVAA0ceF0AAMc
 _$s10HaishinKit20MP4VisualSampleEntryVAA0ceF0AAWP
 _$s10HaishinKit20MP4VisualSampleEntryVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4VisualSampleEntry.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4VisualSampleEntry.swift
 $s10HaishinKit20MP4VisualSampleEntryVMa
 $s10HaishinKit20MP4VisualSampleEntryVwst
 $s10HaishinKit20MP4VisualSampleEntryVwet
@@ -13299,7 +13299,7 @@ _$s10HaishinKit22MP4VideoMediaHeaderBoxVAA0cG11ConvertibleAAWP
 _$s10HaishinKit22MP4VideoMediaHeaderBoxVAA0c4FullG0AAMc
 _$s10HaishinKit22MP4VideoMediaHeaderBoxVAA0c4FullG0AAWP
 _$s10HaishinKit22MP4VideoMediaHeaderBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4VideoMediaHeaderBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4VideoMediaHeaderBox.swift
 $s10HaishinKit22MP4VideoMediaHeaderBoxVMa
 $s10HaishinKit22MP4VideoMediaHeaderBoxVwst
 $s10HaishinKit22MP4VideoMediaHeaderBoxVwet
@@ -13338,7 +13338,7 @@ _$s10HaishinKit9MP4ReaderCN
 _$s10HaishinKit14MP4TrackReaderCACycfCTq
 _$s10HaishinKit14MP4TrackReaderCN
 -private-discriminator _0E48387EB6653FE0CFDCC2EFB61B470A
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4Reader.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4Reader.swift
 $s10HaishinKit14MP4TrackReaderCMa
 $s10HaishinKit9MP4ReaderCMa
 _$s10HaishinKit14MP4FileTypeBoxVwCP
@@ -13361,7 +13361,7 @@ _$s10HaishinKit14MP4FileTypeBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit14MP4FileTypeBoxVAA15DataConvertibleAAMc
 _$s10HaishinKit14MP4FileTypeBoxVAA15DataConvertibleAAWP
 _$s10HaishinKit14MP4FileTypeBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4FileTypeBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4FileTypeBox.swift
 $s10HaishinKit14MP4FileTypeBoxVMa
 $s10HaishinKit14MP4FileTypeBoxVwst
 $s10HaishinKit14MP4FileTypeBoxVwet
@@ -13448,7 +13448,7 @@ _$s10HaishinKit12AMFReferenceCACycfCTq
 _$s10HaishinKit12AMFReferenceCN
 _$s10HaishinKit14AMF3SerializerCN
 -private-discriminator _38263934FB8491CE1D48E59D6B102854
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/RTMP/AMF3Serializer.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/RTMP/AMF3Serializer.swift
 $sSi6offset_yp7elementtSgWOb
 $s10Foundation4DateVACSQAAWl
 $s10Foundation4DateVSgWOh
@@ -13502,7 +13502,7 @@ $sSa9_getCountSiyF10HaishinKit9NetClientC_Tg5
 $ss12_ArrayBufferV14immutableCountSivg10HaishinKit9NetClientC_Tg5
 $ss12_ArrayBufferV10_nonNatives06_CocoaA7WrapperVvg10HaishinKit9NetClientC_Tg5
 $sSayxGSlsSl9formIndex5aftery0B0Qzz_tFTWSS_Tg5
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/CMFormatDescription+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/CMFormatDescription+Extension.swift
 _$s10HaishinKit17TSAdaptationFieldCfD
 _$s10HaishinKit26TSAdaptationExtensionFieldV4data10Foundation4DataVvg
 _$s10HaishinKit17TSAdaptationFieldCs28CustomDebugStringConvertibleAAsADP16debugDescriptionSSvgTW
@@ -13595,7 +13595,7 @@ _$s10HaishinKit17TSAdaptationFieldC4dataACSg10Foundation4DataV_tcfCTq
 _$s10HaishinKit17TSAdaptationFieldC7computeyyFTq
 _$s10HaishinKit17TSAdaptationFieldC8stuffingyySiFTq
 _$s10HaishinKit17TSAdaptationFieldCN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/TS/TSAdaptationField.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/TS/TSAdaptationField.swift
 Sources/TS/TSAdaptationExtensionField.swift
 $s10Foundation4DataV11InlineSliceV22withUnsafeMutableBytesyxxSwKXEKlFyt_Tgq5015$s10Foundation4B42V9repeating5countACs5UInt8V_SitcfcySwXEfU_s0M0VTf1ncn_n
 $s10Foundation4DataV9repeating5countACs5UInt8V_SitcfcySwXEfU_
@@ -13743,7 +13743,7 @@ _$s10HaishinKit7AVMixerC7audioIOAA16AudioIOComponentCSgvgTq
 _$s10HaishinKit7AVMixerC7videoIOAA16VideoIOComponentCSgvgTq
 _$s10HaishinKit7AVMixerC14didBufferEmptyyyAA11IOComponentCFTq
 -private-discriminator _B3119FC2CA818239F178CCFEF7774D79
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/AVMixer.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/AVMixer.swift
 $s10HaishinKit7AVMixerC6OptionOMa
 $s10HaishinKit7AVMixerC6OptionOwui
 $s10HaishinKit7AVMixerC6OptionOwup
@@ -13834,7 +13834,7 @@ _$s10HaishinKit6AtomicVMP
 _symbolic _____ 10HaishinKit6AtomicV
 _$s10HaishinKit6AtomicVMF
 -private-discriminator _77DAD2D27387AD58EC2935FCB3FF3F02
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/Atomic.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/Atomic.swift
 $s10HaishinKit6AtomicVwst
 $s10HaishinKit6AtomicVwet
 $s10HaishinKit6AtomicVwta
@@ -13876,7 +13876,7 @@ _$s10HaishinKit18MP4DataEntryUrlBoxVAA0cG11ConvertibleAAWP
 _$s10HaishinKit18MP4DataEntryUrlBoxVAA0c4FullG0AAMc
 _$s10HaishinKit18MP4DataEntryUrlBoxVAA0c4FullG0AAWP
 _$s10HaishinKit18MP4DataEntryUrlBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4DataEntryUrlBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4DataEntryUrlBox.swift
 $s10HaishinKit18MP4DataEntryUrlBoxVMa
 $s10HaishinKit18MP4DataEntryUrlBoxVwst
 $s10HaishinKit18MP4DataEntryUrlBoxVwet
@@ -13917,7 +13917,7 @@ _symbolic _____ 10HaishinKit3MD5C
 _$s10HaishinKit3MD5CMF
 _$s10HaishinKit3MD5CACycfCTq
 _$s10HaishinKit3MD5CN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/MD5.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/MD5.swift
 $s10HaishinKit3MD5C9calculatey10Foundation4DataVAGFZyAA9ByteArrayCXEfU_Tf4nnd_n
 II
 rotateLeft
@@ -13925,7 +13925,7 @@ HH
 GG
 FF
 $s10HaishinKit3MD5CMa
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Extension/ExpressibleByIntegerLiteral+Extension.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Extension/ExpressibleByIntegerLiteral+Extension.swift
 _$s10HaishinKit23DecoderConfigDescriptorVwCP
 _$s10HaishinKit23DecoderConfigDescriptorVwxx
 _$s10HaishinKit23DecoderConfigDescriptorVwcp
@@ -13958,7 +13958,7 @@ _$s10HaishinKit23DecoderConfigDescriptorVACSQAAWL
 _$s10HaishinKit23DecoderConfigDescriptorVAA04BaseE0AAMcMK
 _$s10HaishinKit23DecoderConfigDescriptorVAA04BaseE0AAMc
 _$s10HaishinKit23DecoderConfigDescriptorVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/ISO/DecoderConfigDescriptor.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/ISO/DecoderConfigDescriptor.swift
 $s10HaishinKit23DecoderConfigDescriptorVACSQAAWl
 $s10HaishinKit23DecoderConfigDescriptorVACs28CustomDebugStringConvertibleAAWl
 $s10HaishinKit23DecoderConfigDescriptorVAA04BaseE0AAWI
@@ -14006,7 +14006,7 @@ _symbolic _____ 10HaishinKit3M3UV
 _$s10HaishinKit3M3UVMF
 _$s10HaishinKit12M3UMediaInfoVN
 _$s10HaishinKit3M3UVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/HTTP/M3U.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/HTTP/M3U.swift
 $s10HaishinKit3M3UVMa
 $s10HaishinKit3M3UVwst
 $s10HaishinKit3M3UVwet
@@ -14039,7 +14039,7 @@ _symbolic _____ 10HaishinKit16VideoGravityUtilC
 _$s10HaishinKit16VideoGravityUtilCMF
 _$s10HaishinKit16VideoGravityUtilCACycfCTq
 _$s10HaishinKit16VideoGravityUtilCN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Util/VideoGravityUtil.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Util/VideoGravityUtil.swift
 $s10HaishinKit16VideoGravityUtilCMa
 _$s10HaishinKit20VTSessionPropertyKeyP8CFStringSo0F3RefavgTj
 _symbolic $s10HaishinKit20VTSessionPropertyKeyP
@@ -14047,7 +14047,7 @@ _$s10HaishinKit20VTSessionPropertyKey_pMF
 _$s10HaishinKit20VTSessionPropertyKeyMp
 _$s10HaishinKit20VTSessionPropertyKeyTL
 _$s10HaishinKit20VTSessionPropertyKeyP8CFStringSo0F3RefavgTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Codec/VTSessionPropertyKey.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Codec/VTSessionPropertyKey.swift
 _$s10HaishinKit16AudioIOComponentC11audioFormat33_A29D77DFDC5617D45D3100418F7A93EFLLSo07AVAudioF0CSgvW
 _$s10HaishinKit16AudioIOComponentC11audioFormat33_A29D77DFDC5617D45D3100418F7A93EFLLSo07AVAudioF0CSgvWyycfU_
 _$s10HaishinKit16AudioIOComponentC11audioFormat33_A29D77DFDC5617D45D3100418F7A93EFLLSo07AVAudioF0CSgvWySo11NSExceptionCcfU0_
@@ -14132,7 +14132,7 @@ __PROTOCOL_METHOD_TYPES_AVCaptureAudioDataOutputSampleBufferDelegate
 _$s10HaishinKit16AudioIOComponentCN
 _OBJC_CLASS_$__TtC10HaishinKit16AudioIOComponent
 -private-discriminator _A29D77DFDC5617D45D3100418F7A93EF
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Media/AudioIOComponent.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Media/AudioIOComponent.swift
 $s9CoreAudio013UnsafeMutableB17BufferListPointerVACSlAAWl
 $sSo11NSExceptionCMa
 $ss6UInt64VABs17FixedWidthIntegersWl
@@ -14202,7 +14202,7 @@ _$s10HaishinKit14MP4TrackRunBoxV6SampleVSQAAMc
 _$s10HaishinKit14MP4TrackRunBoxVN
 _$s10HaishinKit14MP4TrackRunBoxV6SampleVN
 -private-discriminator _383A8764876D1CB917B23DED130BC9B1
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4TrackRunBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4TrackRunBox.swift
 $s10HaishinKit14MP4TrackRunBoxV6SampleVMa
 $s10HaishinKit14MP4TrackRunBoxV6SampleVwst
 $s10HaishinKit14MP4TrackRunBoxV6SampleVwet
@@ -14233,7 +14233,7 @@ _$s10HaishinKit26TSAdaptationExtensionFieldVs28CustomDebugStringConvertibleAAMc
 _$s10HaishinKit26TSAdaptationExtensionFieldVAA15DataConvertibleAAMc
 _$s10HaishinKit26TSAdaptationExtensionFieldVAA15DataConvertibleAAWP
 _$s10HaishinKit26TSAdaptationExtensionFieldVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/TS/TSAdaptationExtensionField.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/TS/TSAdaptationExtensionField.swift
 $s10HaishinKit26TSAdaptationExtensionFieldVMa
 $s10HaishinKit26TSAdaptationExtensionFieldVwst
 $s10HaishinKit26TSAdaptationExtensionFieldVwet
@@ -14266,7 +14266,7 @@ _$s10HaishinKit17MP4MediaHeaderBoxVAA0cF11ConvertibleAAWP
 _$s10HaishinKit17MP4MediaHeaderBoxVAA0c4FullF0AAMc
 _$s10HaishinKit17MP4MediaHeaderBoxVAA0c4FullF0AAWP
 _$s10HaishinKit17MP4MediaHeaderBoxVN
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/MP4/MP4MediaHeaderBox.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/MP4/MP4MediaHeaderBox.swift
 $s10HaishinKit17MP4MediaHeaderBoxVMa
 $s10HaishinKit17MP4MediaHeaderBoxVwst
 $s10HaishinKit17MP4MediaHeaderBoxVwet
@@ -14336,7 +14336,7 @@ _$s10HaishinKit22HTTPResponseCompatibleP12headerFieldsSDyS2SGvMTq
 _$s10HaishinKit22HTTPResponseCompatibleP4body10Foundation4DataVSgvgTq
 _$s10HaishinKit22HTTPResponseCompatibleP4body10Foundation4DataVSgvsTq
 _$s10HaishinKit22HTTPResponseCompatibleP4body10Foundation4DataVSgvMTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/HTTP/HTTPResponse.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/HTTP/HTTPResponse.swift
 $s10HaishinKit12HTTPResponseVMa
 $s10HaishinKit12HTTPResponseVwst
 $s10HaishinKit12HTTPResponseVwet
@@ -14460,7 +14460,7 @@ _$s10HaishinKit20VideoDecoderDelegateP12sampleOutput5videoySo17CMSampleBufferRef
 _$s10HaishinKit11H264DecoderCACycfCTq
 _$s10HaishinKit11H264DecoderCN
 -private-discriminator _5510E9CBE1790E3DF2DF952086D7109B
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Library/HaishinKit.swift/Sources/Codec/H264Decoder.swift
+/Users/iphong/Desktop/HaishinKit.swift/Sources/Codec/H264Decoder.swift
 didOutputForSession
 $sSayxGSlsSly7ElementQz5IndexQzcirTWSo17CMSampleBufferRefa_Tg5
 $sSayxSicirSo17CMSampleBufferRefa_Tg5

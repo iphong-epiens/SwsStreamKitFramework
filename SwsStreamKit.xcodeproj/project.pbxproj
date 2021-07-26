@@ -9,68 +9,68 @@
 /* Begin PBXBuildFile section */
 		2EA9B1D526AE9AC2008A47E7 /* SwsStreamKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EA9B1D326AE9AC2008A47E7 /* SwsStreamKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2EA9B1E826AE9D32008A47E7 /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B1E726AE9D32008A47E7 /* LiveViewController.swift */; };
-		2EA9B25E26AEA023008A47E7 /* HaishinKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B24F26AEA012008A47E7 /* HaishinKit.framework */; };
-		2EA9B25F26AEA023008A47E7 /* HaishinKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B24F26AEA012008A47E7 /* HaishinKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		2EA9B26926AEA0AC008A47E7 /* VisualEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B26326AEA0AB008A47E7 /* VisualEffect.swift */; };
 		2EA9B26A26AEA0AC008A47E7 /* Preference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B26426AEA0AB008A47E7 /* Preference.swift */; };
 		2EA9B26E26AEA125008A47E7 /* SwsStreamKit.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EA9B26D26AEA125008A47E7 /* SwsStreamKit.storyboard */; };
 		2EA9B28A26AEA410008A47E7 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EA9B28926AEA410008A47E7 /* Media.xcassets */; };
 		2EA9B31726AEB581008A47E7 /* SwsStreamKitBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B31626AEB581008A47E7 /* SwsStreamKitBundle.swift */; };
+		2EA9B34526AEC5CF008A47E7 /* HaishinKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B33626AEC5C0008A47E7 /* HaishinKit.framework */; };
+		2EA9B34626AEC5CF008A47E7 /* HaishinKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2EA9B33626AEC5C0008A47E7 /* HaishinKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2EA9B24E26AEA012008A47E7 /* PBXContainerItemProxy */ = {
+		2EA9B33526AEC5C0008A47E7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+			containerPortal = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 2945CBBD1B4BE66000104112;
 			remoteInfo = "HaishinKit iOS";
 		};
-		2EA9B25026AEA012008A47E7 /* PBXContainerItemProxy */ = {
+		2EA9B33726AEC5C0008A47E7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+			containerPortal = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 29B8761B1CD701F900FC07DA;
 			remoteInfo = "HaishinKit macOS";
 		};
-		2EA9B25226AEA012008A47E7 /* PBXContainerItemProxy */ = {
+		2EA9B33926AEC5C0008A47E7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+			containerPortal = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 29D3D4DC1ED0509900DD4AA6;
 			remoteInfo = "HaishinKit tvOS";
 		};
-		2EA9B25426AEA012008A47E7 /* PBXContainerItemProxy */ = {
+		2EA9B33B26AEC5C0008A47E7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+			containerPortal = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 29C9327E1CD76FB800283FC5;
 			remoteInfo = "Example iOS";
 		};
-		2EA9B25626AEA012008A47E7 /* PBXContainerItemProxy */ = {
+		2EA9B33D26AEC5C0008A47E7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+			containerPortal = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 29C932941CD76FD300283FC5;
 			remoteInfo = "Example macOS";
 		};
-		2EA9B25826AEA012008A47E7 /* PBXContainerItemProxy */ = {
+		2EA9B33F26AEC5C0008A47E7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+			containerPortal = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 29D3D4EF1ED0531500DD4AA6;
 			remoteInfo = "Example tvOS";
 		};
-		2EA9B25A26AEA012008A47E7 /* PBXContainerItemProxy */ = {
+		2EA9B34126AEC5C0008A47E7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+			containerPortal = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 2915EC521D85BDF100621092;
 			remoteInfo = Screencast;
 		};
-		2EA9B25C26AEA012008A47E7 /* PBXContainerItemProxy */ = {
+		2EA9B34326AEC5C0008A47E7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+			containerPortal = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 29798E591CE60E5300F5CBD0;
 			remoteInfo = Tests;
@@ -84,7 +84,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				2EA9B25F26AEA023008A47E7 /* HaishinKit.framework in Embed Frameworks */,
+				2EA9B34626AEC5CF008A47E7 /* HaishinKit.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -96,12 +96,12 @@
 		2EA9B1D326AE9AC2008A47E7 /* SwsStreamKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwsStreamKit.h; sourceTree = "<group>"; };
 		2EA9B1D426AE9AC2008A47E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2EA9B1E726AE9D32008A47E7 /* LiveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveViewController.swift; sourceTree = "<group>"; };
-		2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = HaishinKit.xcodeproj; path = HaishinKit.swift/HaishinKit.xcodeproj; sourceTree = "<group>"; };
 		2EA9B26326AEA0AB008A47E7 /* VisualEffect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VisualEffect.swift; sourceTree = "<group>"; };
 		2EA9B26426AEA0AB008A47E7 /* Preference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preference.swift; sourceTree = "<group>"; };
 		2EA9B26D26AEA125008A47E7 /* SwsStreamKit.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SwsStreamKit.storyboard; sourceTree = "<group>"; };
 		2EA9B28926AEA410008A47E7 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		2EA9B31626AEB581008A47E7 /* SwsStreamKitBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwsStreamKitBundle.swift; sourceTree = "<group>"; };
+		2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = HaishinKit.xcodeproj; path = ../../../../../Desktop/HaishinKit.swift/HaishinKit.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +109,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2EA9B25E26AEA023008A47E7 /* HaishinKit.framework in Frameworks */,
+				2EA9B34526AEC5CF008A47E7 /* HaishinKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -158,24 +158,9 @@
 		2EA9B22726AE9FC4008A47E7 /* Library */ = {
 			isa = PBXGroup;
 			children = (
-				2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */,
+				2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */,
 			);
 			path = Library;
-			sourceTree = "<group>";
-		};
-		2EA9B24426AEA012008A47E7 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				2EA9B24F26AEA012008A47E7 /* HaishinKit.framework */,
-				2EA9B25126AEA012008A47E7 /* HaishinKit.framework */,
-				2EA9B25326AEA012008A47E7 /* HaishinKit.framework */,
-				2EA9B25526AEA012008A47E7 /* Example iOS.app */,
-				2EA9B25726AEA012008A47E7 /* Example macOS.app */,
-				2EA9B25926AEA012008A47E7 /* Example tvOS.app */,
-				2EA9B25B26AEA012008A47E7 /* Screencast.appex */,
-				2EA9B25D26AEA012008A47E7 /* Tests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		2EA9B26126AEA0AB008A47E7 /* Model */ = {
@@ -185,6 +170,21 @@
 				2EA9B26426AEA0AB008A47E7 /* Preference.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		2EA9B32B26AEC5C0008A47E7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2EA9B33626AEC5C0008A47E7 /* HaishinKit.framework */,
+				2EA9B33826AEC5C0008A47E7 /* HaishinKit.framework */,
+				2EA9B33A26AEC5C0008A47E7 /* HaishinKit.framework */,
+				2EA9B33C26AEC5C0008A47E7 /* Example iOS.app */,
+				2EA9B33E26AEC5C0008A47E7 /* Example macOS.app */,
+				2EA9B34026AEC5C0008A47E7 /* Example tvOS.app */,
+				2EA9B34226AEC5C0008A47E7 /* Screencast.appex */,
+				2EA9B34426AEC5C0008A47E7 /* Tests.xctest */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -247,8 +247,8 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = 2EA9B24426AEA012008A47E7 /* Products */;
-					ProjectRef = 2EA9B24326AEA012008A47E7 /* HaishinKit.xcodeproj */;
+					ProductGroup = 2EA9B32B26AEC5C0008A47E7 /* Products */;
+					ProjectRef = 2EA9B32A26AEC5C0008A47E7 /* HaishinKit.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -259,60 +259,60 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		2EA9B24F26AEA012008A47E7 /* HaishinKit.framework */ = {
+		2EA9B33626AEC5C0008A47E7 /* HaishinKit.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
 			path = HaishinKit.framework;
-			remoteRef = 2EA9B24E26AEA012008A47E7 /* PBXContainerItemProxy */;
+			remoteRef = 2EA9B33526AEC5C0008A47E7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		2EA9B25126AEA012008A47E7 /* HaishinKit.framework */ = {
+		2EA9B33826AEC5C0008A47E7 /* HaishinKit.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
 			path = HaishinKit.framework;
-			remoteRef = 2EA9B25026AEA012008A47E7 /* PBXContainerItemProxy */;
+			remoteRef = 2EA9B33726AEC5C0008A47E7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		2EA9B25326AEA012008A47E7 /* HaishinKit.framework */ = {
+		2EA9B33A26AEC5C0008A47E7 /* HaishinKit.framework */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.framework;
 			path = HaishinKit.framework;
-			remoteRef = 2EA9B25226AEA012008A47E7 /* PBXContainerItemProxy */;
+			remoteRef = 2EA9B33926AEC5C0008A47E7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		2EA9B25526AEA012008A47E7 /* Example iOS.app */ = {
+		2EA9B33C26AEC5C0008A47E7 /* Example iOS.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
 			path = "Example iOS.app";
-			remoteRef = 2EA9B25426AEA012008A47E7 /* PBXContainerItemProxy */;
+			remoteRef = 2EA9B33B26AEC5C0008A47E7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		2EA9B25726AEA012008A47E7 /* Example macOS.app */ = {
+		2EA9B33E26AEC5C0008A47E7 /* Example macOS.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
 			path = "Example macOS.app";
-			remoteRef = 2EA9B25626AEA012008A47E7 /* PBXContainerItemProxy */;
+			remoteRef = 2EA9B33D26AEC5C0008A47E7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		2EA9B25926AEA012008A47E7 /* Example tvOS.app */ = {
+		2EA9B34026AEC5C0008A47E7 /* Example tvOS.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
 			path = "Example tvOS.app";
-			remoteRef = 2EA9B25826AEA012008A47E7 /* PBXContainerItemProxy */;
+			remoteRef = 2EA9B33F26AEC5C0008A47E7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		2EA9B25B26AEA012008A47E7 /* Screencast.appex */ = {
+		2EA9B34226AEC5C0008A47E7 /* Screencast.appex */ = {
 			isa = PBXReferenceProxy;
 			fileType = "wrapper.app-extension";
 			path = Screencast.appex;
-			remoteRef = 2EA9B25A26AEA012008A47E7 /* PBXContainerItemProxy */;
+			remoteRef = 2EA9B34126AEC5C0008A47E7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		2EA9B25D26AEA012008A47E7 /* Tests.xctest */ = {
+		2EA9B34426AEC5C0008A47E7 /* Tests.xctest */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.cfbundle;
 			path = Tests.xctest;
-			remoteRef = 2EA9B25C26AEA012008A47E7 /* PBXContainerItemProxy */;
+			remoteRef = 2EA9B34326AEC5C0008A47E7 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
@@ -485,6 +485,7 @@
 				);
 				INFOPLIST_FILE = SwsStreamKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -519,6 +520,7 @@
 				);
 				INFOPLIST_FILE = SwsStreamKit/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -2,8 +2,8 @@ BCSymbolMap Version: 2.0
 Apple clang version 12.0.5 (clang-1205.0.22.11)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
 iPhoneOS14.5.sdk
-/Users/iphong/Library/Developer/Xcode/DerivedData/SwsStreamKit-brdceicrdcpqnghdxilmqwihbznv/Build/Intermediates.noindex/ArchiveIntermediates/SwsStreamKit/IntermediateBuildFilesPath/SwsStreamKit.build/Release-iphoneos/SwsStreamKit.build/DerivedSources/SwsStreamKit_vers.c
-/Users/iphong/Developer/GitHub/SwsStreamKit
+/Users/iphong/Library/Developer/Xcode/DerivedData/SwsStreamKit-foujsbnvziszxlgdqhuqvugpyksq/Build/Intermediates.noindex/ArchiveIntermediates/SwsStreamKit/IntermediateBuildFilesPath/SwsStreamKit.build/Release-iphoneos/SwsStreamKit.build/DerivedSources/SwsStreamKit_vers.c
+/Users/iphong/Developer/GitHub/SwsStreamKitFramework
 _$s12SwsStreamKit13PronamaEffectCMa
 _$s12SwsStreamKit13PronamaEffectCMr
 _$s12SwsStreamKit13PronamaEffectC6extentSo6CGRectVvW
@@ -244,7 +244,7 @@ Apple clang version 12.0.5 (clang-1205.0.19.57)
 -private-discriminator _DFE4996DB39268601F71045348D3C321
 <swift-imported-modules>
 Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Model/VisualEffect.swift
+/Users/iphong/Developer/GitHub/SwsStreamKitFramework/SwsStreamKit/Model/VisualEffect.swift
 $sSo23AVCaptureDevicePositionVMa
 <compiler-generated>
 $sSo6CGSizeVwst
@@ -306,7 +306,7 @@ $s12SwsStreamKit13PronamaEffectCMr
 _$s12SwsStreamKit10PreferenceV15defaultInstance_WZ
 _$s12SwsStreamKit10PreferenceV15defaultInstanceACvau
 _$s12SwsStreamKit10PreferenceV15defaultInstanceACvpZ
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/Model/Preference.swift
+/Users/iphong/Developer/GitHub/SwsStreamKitFramework/SwsStreamKit/Model/Preference.swift
 $s12SwsStreamKit10PreferenceV15defaultInstanceACvau
 $s12SwsStreamKit10PreferenceV15defaultInstance_WZ
 _$s12SwsStreamKit0abC6BundleC8getImage5namedSo7UIImageCSgSS_tFZ
@@ -317,7 +317,7 @@ _symbolic _____ 12SwsStreamKit0abC6BundleC
 _$s12SwsStreamKit0abC6BundleCMF
 _objc_classes
 _$s12SwsStreamKit0abC6BundleCACycfCTq
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/SwsStreamKitBundle.swift
+/Users/iphong/Developer/GitHub/SwsStreamKitFramework/SwsStreamKit/SwsStreamKitBundle.swift
 $s12SwsStreamKit0abC6BundleCMa
 _$s12SwsStreamKit6logger_WZ
 _$s12SwsStreamKit6logger8LogboardACCvau
@@ -481,7 +481,7 @@ _symbolic So13AVAssetWriterC
 _block_descriptor
 _block_descriptor.6
 -private-discriminator _9489F9D2F79F4C87847E80365D84B74D
-/Users/iphong/Developer/GitHub/SwsStreamKit/SwsStreamKit/LiveViewController.swift
+/Users/iphong/Developer/GitHub/SwsStreamKitFramework/SwsStreamKit/LiveViewController.swift
 $s12SwsStreamKit23ExampleRecorderDelegateC16didFinishWritingyy07HaishinC010AVRecorderCFySb_s5Error_pSgtcfU0_TA
 block_destroy_helper
 block_copy_helper
