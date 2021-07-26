@@ -1,11 +1,3 @@
-//
-//  LiveViewController.swift
-//  SwsStreamKit
-//
-//  Created by Inpyo Hong on 2021/07/23.
-//
-
-import UIKit
 import AVFoundation
 import HaishinKit
 import Photos
@@ -13,7 +5,9 @@ import UIKit
 import VideoToolbox
 import Logboard
 
-final class ExampleRecorderDelegate: DefaultAVRecorderDelegate {
+let logger = Logboard.with("com.haishinkit.Exsample.iOS")
+
+public final class ExampleRecorderDelegate: DefaultAVRecorderDelegate {
     static let `default` = ExampleRecorderDelegate()
 
     public override func didFinishWriting(_ recorder: AVRecorder) {
@@ -54,7 +48,7 @@ public final class LiveViewController: UIViewController {
     private var currentPosition: AVCaptureDevice.Position = .back
     private var retryCount: Int = 0
 
-   public override func viewDidLoad() {
+    public override func viewDidLoad() {
         super.viewDidLoad()
 
         rtmpStream = RTMPStream(connection: rtmpConnection)
@@ -82,20 +76,20 @@ public final class LiveViewController: UIViewController {
     }
 
     public override func viewWillAppear(_ animated: Bool) {
-        // logger.info("viewWillAppear")
+        logger.info("viewWillAppear")
         super.viewWillAppear(animated)
         rtmpStream.attachAudio(AVCaptureDevice.default(for: .audio)) { error in
-            // logger.warn(error.description)
+            logger.warn(error.description)
         }
         rtmpStream.attachCamera(DeviceUtil.device(withPosition: currentPosition)) { error in
-            // logger.warn(error.description)
+            logger.warn(error.description)
         }
         rtmpStream.addObserver(self, forKeyPath: "currentFPS", options: .new, context: nil)
         lfView?.attachStream(rtmpStream)
     }
 
     public override func viewWillDisappear(_ animated: Bool) {
-        // logger.info("viewWillDisappear")
+        logger.info("viewWillDisappear")
         super.viewWillDisappear(animated)
         rtmpStream.removeObserver(self, forKeyPath: "currentFPS")
         rtmpStream.close()
@@ -103,11 +97,11 @@ public final class LiveViewController: UIViewController {
     }
 
     @IBAction func rotateCamera(_ sender: UIButton) {
-        // logger.info("rotateCamera")
+        logger.info("rotateCamera")
         let position: AVCaptureDevice.Position = currentPosition == .back ? .front : .back
         rtmpStream.captureSettings[.isVideoMirrored] = position == .front
         rtmpStream.attachCamera(DeviceUtil.device(withPosition: position)) { error in
-            // logger.warn(error.description)
+            logger.warn(error.description)
         }
         currentPosition = position
     }
@@ -149,7 +143,7 @@ public final class LiveViewController: UIViewController {
             UIApplication.shared.isIdleTimerDisabled = true
             rtmpConnection.addEventListener(.rtmpStatus, selector: #selector(rtmpStatusHandler), observer: self)
             rtmpConnection.addEventListener(.ioError, selector: #selector(rtmpErrorHandler), observer: self)
-            //rtmpConnection.connect(Preference.defaultInstance.uri!)
+            rtmpConnection.connect(Preference.defaultInstance.uri!)
             publish.setTitle("■", for: [])
         }
         publish.isSelected.toggle()
@@ -161,18 +155,18 @@ public final class LiveViewController: UIViewController {
         guard let data: ASObject = e.data as? ASObject, let code: String = data["code"] as? String else {
             return
         }
-        // logger.info(code)
+        logger.info(code)
         switch code {
         case RTMPConnection.Code.connectSuccess.rawValue:
             retryCount = 0
-            //rtmpStream!.publish(Preference.defaultInstance.streamName!)
+            rtmpStream!.publish(Preference.defaultInstance.streamName!)
             // sharedObject!.connect(rtmpConnection)
         case RTMPConnection.Code.connectFailed.rawValue, RTMPConnection.Code.connectClosed.rawValue:
             guard retryCount <= LiveViewController.maxRetryCount else {
                 return
             }
             Thread.sleep(forTimeInterval: pow(2.0, Double(retryCount)))
-            //rtmpConnection.connect(Preference.defaultInstance.uri!)
+            rtmpConnection.connect(Preference.defaultInstance.uri!)
             retryCount += 1
         default:
             break
@@ -181,7 +175,8 @@ public final class LiveViewController: UIViewController {
 
     @objc
     private func rtmpErrorHandler(_ notification: Notification) {
-      //  rtmpConnection.connect(Preference.defaultInstance.uri!)
+        logger.error(notification)
+        rtmpConnection.connect(Preference.defaultInstance.uri!)
     }
 
     func tapScreen(_ gesture: UIGestureRecognizer) {
@@ -211,12 +206,12 @@ public final class LiveViewController: UIViewController {
             _ = rtmpStream.unregisterVideoEffect(currentEffect)
         }
         switch segment.selectedSegmentIndex {
-//        case 1:
-//            currentEffect = MonochromeEffect()
-//            _ = rtmpStream.registerVideoEffect(currentEffect!)
-//        case 2:
-//            currentEffect = PronamaEffect()
-//            _ = rtmpStream.registerVideoEffect(currentEffect!)
+        case 1:
+            currentEffect = MonochromeEffect()
+            _ = rtmpStream.registerVideoEffect(currentEffect!)
+        case 2:
+            currentEffect = PronamaEffect()
+            _ = rtmpStream.registerVideoEffect(currentEffect!)
         default:
             break
         }
