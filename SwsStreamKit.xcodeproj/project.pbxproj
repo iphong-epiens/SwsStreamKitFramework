@@ -15,6 +15,7 @@
 		2EA9B26A26AEA0AC008A47E7 /* Preference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B26426AEA0AB008A47E7 /* Preference.swift */; };
 		2EA9B26E26AEA125008A47E7 /* SwsStreamKit.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EA9B26D26AEA125008A47E7 /* SwsStreamKit.storyboard */; };
 		2EA9B28A26AEA410008A47E7 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EA9B28926AEA410008A47E7 /* Media.xcassets */; };
+		2EA9B31726AEB581008A47E7 /* SwsStreamKitBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B31626AEB581008A47E7 /* SwsStreamKitBundle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -100,6 +101,7 @@
 		2EA9B26426AEA0AB008A47E7 /* Preference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preference.swift; sourceTree = "<group>"; };
 		2EA9B26D26AEA125008A47E7 /* SwsStreamKit.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SwsStreamKit.storyboard; sourceTree = "<group>"; };
 		2EA9B28926AEA410008A47E7 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		2EA9B31626AEB581008A47E7 /* SwsStreamKitBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwsStreamKitBundle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 				2EA9B26126AEA0AB008A47E7 /* Model */,
 				2EA9B22726AE9FC4008A47E7 /* Library */,
 				2EA9B1D326AE9AC2008A47E7 /* SwsStreamKit.h */,
+				2EA9B31626AEB581008A47E7 /* SwsStreamKitBundle.swift */,
 				2EA9B1E726AE9D32008A47E7 /* LiveViewController.swift */,
 				2EA9B26D26AEA125008A47E7 /* SwsStreamKit.storyboard */,
 				2EA9B1D426AE9AC2008A47E7 /* Info.plist */,
@@ -333,6 +336,7 @@
 			files = (
 				2EA9B26926AEA0AC008A47E7 /* VisualEffect.swift in Sources */,
 				2EA9B26A26AEA0AC008A47E7 /* Preference.swift in Sources */,
+				2EA9B31726AEB581008A47E7 /* SwsStreamKitBundle.swift in Sources */,
 				2EA9B1E826AE9D32008A47E7 /* LiveViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -469,6 +473,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = UV36497CVB;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -502,6 +507,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = UV36497CVB;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;

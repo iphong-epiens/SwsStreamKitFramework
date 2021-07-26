@@ -12,8 +12,7 @@ final class PronamaEffect: VideoEffect {
             }
             
             UIGraphicsBeginImageContext(extent.size)
-
-            guard let image = UIImage(named: "icon", in: nil, compatibleWith: nil) else { return }
+            guard let image = SwsStreamKitBundle.getImage(named: "Icon") else { return }
             image.draw(at: CGPoint(x: 50, y: 50))
             pronama = CIImage(image: UIGraphicsGetImageFromCurrentImageContext()!, options: nil)
             UIGraphicsEndImageContext()
