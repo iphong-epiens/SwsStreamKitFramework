@@ -8,37 +8,13 @@
 		<data>
 		LAr9vTJn9r43Kc8VxxOCgXzoQHY=
 		</data>
-		<key>Frameworks/HaishinKit.framework/HaishinKit</key>
-		<data>
-		6IneJ+moQLrZ16qLL8k8iDhra0A=
-		</data>
-		<key>Frameworks/HaishinKit.framework/Info.plist</key>
-		<data>
-		tmbIMtsj/uvTkJ5AMSdw3EfWVrk=
-		</data>
-		<key>Frameworks/HaishinKit.framework/_CodeSignature/CodeResources</key>
-		<data>
-		kYxZvVCvukQzQTojEHaERwlkv4s=
-		</data>
-		<key>Frameworks/Logboard.framework/Info.plist</key>
-		<data>
-		eKoJdrp+EGaR1zFxbR3IKOLkAEs=
-		</data>
-		<key>Frameworks/Logboard.framework/Logboard</key>
-		<data>
-		LCD0GrKoz1DZ/QkfgFYG0czFCNk=
-		</data>
-		<key>Frameworks/Logboard.framework/_CodeSignature/CodeResources</key>
-		<data>
-		WQQjkG1g/hPWksHPh8n3kM+naSc=
-		</data>
 		<key>Headers/SwsStreamKit-Swift.h</key>
 		<data>
 		AZpEAjP2NUABtvgXZVT5R4k+Wls=
 		</data>
 		<key>Headers/SwsStreamKit.h</key>
 		<data>
-		nNgNqCCaUWtpsIOYz5gwnRlE/MU=
+		VWVHi5w0qDG+xAqIjjD+jwjC5Rs=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -74,7 +50,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/4As-vc-8X2-view-UYk-to-8WA.nib</key>
 		<data>
-		Zw0DS34Hd0K0BMhNVU/Xb35v0n0=
+		0q8Y0gi1jeXP/1l2XGtPd/A1hUI=
 		</data>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
 		<data>
@@ -82,7 +58,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/LiveViewController.nib</key>
 		<data>
-		r8OQ8zLQmw7L5vFG5vuXclgavCQ=
+		25DxIeVvgUn03ankHMNgNqX68Mc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -92,48 +68,6 @@
 			<key>hash2</key>
 			<data>
 			2ilObEh57OsmwhoMPdJeIt9653i8VdkJdGV7Dr3+GXc=
-			</data>
-		</dict>
-		<key>Frameworks/HaishinKit.framework/HaishinKit</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4D0g2Uwau+KOb7cDMj0C8hZDAlFk4daH5CFGXhMWFMs=
-			</data>
-		</dict>
-		<key>Frameworks/HaishinKit.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8xlxPhdl9BcJ+QRRu5lCPTd3QwpIfzCNJwdGcYmnywQ=
-			</data>
-		</dict>
-		<key>Frameworks/HaishinKit.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kNUnEqsddQhVOw7doeQF+SZs2yo4j6KbYSjn+UdNsKU=
-			</data>
-		</dict>
-		<key>Frameworks/Logboard.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g7ZjZxHgGsAqfelT4iW5emh3i9xE/aWe6bA77DXg/aE=
-			</data>
-		</dict>
-		<key>Frameworks/Logboard.framework/Logboard</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SjfRZFtV79FrY93JW6kDFAJyTMdOWn4vqISi7xyt80E=
-			</data>
-		</dict>
-		<key>Frameworks/Logboard.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			22mcgvZ4QbC9YgGOBtaAv6ukSIoJrhMYWlLHJ0haJgI=
 			</data>
 		</dict>
 		<key>Headers/SwsStreamKit-Swift.h</key>
@@ -147,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mqskkHM9Uf/gR2J9gCteFF6cTZQB+wr+lBVpVIVJWyo=
+			1QBA8GdiTWT/2wyD9pz5gRFLw4Yhe9V3HUEY3RXkNYU=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -203,7 +137,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S+XFXn3MXuq4/eDvXe3dwsp+pIilZXOaBDVboW9UOxo=
+			csnQgF2j0FbqbsJK5fKhBIYpco5GvIX303w7v4jYEUk=
 			</data>
 		</dict>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
@@ -217,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bhkCM0SCF/wotwmz1eBYWdsS0WAD5Rf1eRTm05t7r6g=
+			Jy4s4ebsWSR/AY1RcKdzy3rL+hU2utU3H1+qEiR/tyc=
 			</data>
 		</dict>
 	</dict>
