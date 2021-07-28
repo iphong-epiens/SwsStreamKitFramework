@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/HaishinKit.framework/HaishinKit</key>
 		<data>
-		TKTByLkC9ts3ApnbaCTMP5UYGTk=
+		6IneJ+moQLrZ16qLL8k8iDhra0A=
 		</data>
 		<key>Frameworks/HaishinKit.framework/Info.plist</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Frameworks/Logboard.framework/Logboard</key>
 		<data>
-		AMrnd5/HTGX8TFHaDgEJb483pDE=
+		LCD0GrKoz1DZ/QkfgFYG0czFCNk=
 		</data>
 		<key>Frameworks/Logboard.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/SwsStreamKit.h</key>
 		<data>
-		xBBv3nicwpPdL/RskvvQVn/1ZJE=
+		nNgNqCCaUWtpsIOYz5gwnRlE/MU=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/4As-vc-8X2-view-UYk-to-8WA.nib</key>
 		<data>
-		yJ95PbI0rm5xBWS1EmZBlbK4v5k=
+		Zw0DS34Hd0K0BMhNVU/Xb35v0n0=
 		</data>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/LiveViewController.nib</key>
 		<data>
-		jLTGCWWB1/SLFVUR7t4UmLMWEJE=
+		r8OQ8zLQmw7L5vFG5vuXclgavCQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -98,7 +98,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LXQabpt4Jss2TTt4EDWJetzdTk+Lt8cGqVqsK2GaY4c=
+			4D0g2Uwau+KOb7cDMj0C8hZDAlFk4daH5CFGXhMWFMs=
 			</data>
 		</dict>
 		<key>Frameworks/HaishinKit.framework/Info.plist</key>
@@ -126,7 +126,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9n+JVpSfzUNQ+XqBEvKf++BsYUNd61sjmC8uPuB0N0w=
+			SjfRZFtV79FrY93JW6kDFAJyTMdOWn4vqISi7xyt80E=
 			</data>
 		</dict>
 		<key>Frameworks/Logboard.framework/_CodeSignature/CodeResources</key>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OJnc+q96JA0puCEX9IXOB+2K3M/0qtzgcPrVASzXg6E=
+			mqskkHM9Uf/gR2J9gCteFF6cTZQB+wr+lBVpVIVJWyo=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -203,7 +203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U8LcNjzKsicJkEQVIUZmnQYlwTcsGk5/YkP2kSsYjuE=
+			S+XFXn3MXuq4/eDvXe3dwsp+pIilZXOaBDVboW9UOxo=
 			</data>
 		</dict>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
@@ -217,7 +217,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kIhHRHzg2P0A6CAAoraARZoaHQRHPmyEPgU6ZDd4ItE=
+			bhkCM0SCF/wotwmz1eBYWdsS0WAD5Rf1eRTm05t7r6g=
 			</data>
 		</dict>
 	</dict>

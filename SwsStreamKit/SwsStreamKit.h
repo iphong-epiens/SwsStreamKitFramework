@@ -6,8 +6,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <HaishinKit/HaishinKit.h>
-#import <Logboard/Logboard.h>
 
 //! Project version number for SwsStreamKit.
 FOUNDATION_EXPORT double SwsStreamKitVersionNumber;
