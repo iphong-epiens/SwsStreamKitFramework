@@ -14,24 +14,24 @@ import Logboard
 
 let logger = Logboard.with("com.haishinkit.Exsample.iOS")
 
-public final class ExampleRecorderDelegate: DefaultAVRecorderDelegate {
-    static let `default` = ExampleRecorderDelegate()
-
-    public override func didFinishWriting(_ recorder: AVRecorder) {
-        guard let writer: AVAssetWriter = recorder.writer else {
-            return
-        }
-        PHPhotoLibrary.shared().performChanges({() -> Void in
-            PHAssetChangeRequest.creationRequestForAssetFromVideo(atFileURL: writer.outputURL)
-        }, completionHandler: { _, error -> Void in
-            do {
-                try FileManager.default.removeItem(at: writer.outputURL)
-            } catch {
-                print(error)
-            }
-        })
-    }
-}
+//public final class ExampleRecorderDelegate: DefaultAVRecorderDelegate {
+//    static let `default` = ExampleRecorderDelegate()
+//
+//    public override func didFinishWriting(_ recorder: AVRecorder) {
+//        guard let writer: AVAssetWriter = recorder.writer else {
+//            return
+//        }
+//        PHPhotoLibrary.shared().performChanges({() -> Void in
+//            PHAssetChangeRequest.creationRequestForAssetFromVideo(atFileURL: writer.outputURL)
+//        }, completionHandler: { _, error -> Void in
+//            do {
+//                try FileManager.default.removeItem(at: writer.outputURL)
+//            } catch {
+//                print(error)
+//            }
+//        })
+//    }
+//}
 
 public final class LiveViewController: UIViewController {
     private static let maxRetryCount: Int = 5
@@ -73,7 +73,7 @@ public final class LiveViewController: UIViewController {
             .height: 1280
         ]
 
-        rtmpStream.mixer.recorder.delegate = ExampleRecorderDelegate.shared
+        //rtmpStream.mixer.recorder.delegate = ExampleRecorderDelegate.shared
 
         videoBitrateSlider?.value = Float(RTMPStream.defaultVideoBitrate) / 1000
         audioBitrateSlider?.value = Float(RTMPStream.defaultAudioBitrate) / 1000

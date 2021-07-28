@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/SwsStreamKit-Swift.h</key>
 		<data>
-		AZpEAjP2NUABtvgXZVT5R4k+Wls=
+		FWTJLwo+rU7Fsm9XUAJcS8sil1g=
 		</data>
 		<key>Headers/SwsStreamKit.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		fjeqP00V2VsifALL5pztRQCTZ9o=
+		CTGbuH+cujUbTpfskO6IitHWbtU=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2pv02pDFznJ9K31/UidaGbV1hU8=
+		vU3Mx2YPPGaWoGxYAC7I68z7PAc=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		fjeqP00V2VsifALL5pztRQCTZ9o=
+		CTGbuH+cujUbTpfskO6IitHWbtU=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		2pv02pDFznJ9K31/UidaGbV1hU8=
+		vU3Mx2YPPGaWoGxYAC7I68z7PAc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/4As-vc-8X2-view-UYk-to-8WA.nib</key>
 		<data>
-		0q8Y0gi1jeXP/1l2XGtPd/A1hUI=
+		KWJ0nrG81CSwU9iWXff1MQQSqkM=
 		</data>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/LiveViewController.nib</key>
 		<data>
-		25DxIeVvgUn03ankHMNgNqX68Mc=
+		8Ii6TGNFHVq3Z7v3dBJJ6ZVgacg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -74,7 +74,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qZV28Wddeyjki+trYG5EYEgHjqch9hzCE8NKKKg7rlA=
+			pYpUerGhBKQy4iMMlnuA3zwPXbS2ghKaV/ay+GQ7ago=
 			</data>
 		</dict>
 		<key>Headers/SwsStreamKit.h</key>
@@ -95,14 +95,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1VySe0yfrxVVQD2Ig1tS6WEnPsKJF54Yq0KsZhjCXsE=
+			vJprQdgjqjAmgTLbDtKDRUvZIaqlDcn25AI6+pZHzAY=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8o0M7YvZG9kgrqiLKLZyT5VCYCGVrAfTqZy6A8uFrNQ=
+			EGUo6WHdwavlb+k7IeyjC+XP3ILjNfS341H3Zz0Dy0c=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftdoc</key>
@@ -116,14 +116,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1VySe0yfrxVVQD2Ig1tS6WEnPsKJF54Yq0KsZhjCXsE=
+			vJprQdgjqjAmgTLbDtKDRUvZIaqlDcn25AI6+pZHzAY=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8o0M7YvZG9kgrqiLKLZyT5VCYCGVrAfTqZy6A8uFrNQ=
+			EGUo6WHdwavlb+k7IeyjC+XP3ILjNfS341H3Zz0Dy0c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -137,7 +137,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			csnQgF2j0FbqbsJK5fKhBIYpco5GvIX303w7v4jYEUk=
+			spFUiwtQqYtznjB+XWZL2nn778O4c3DIMZNlt4D0OCU=
 			</data>
 		</dict>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
@@ -151,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jy4s4ebsWSR/AY1RcKdzy3rL+hU2utU3H1+qEiR/tyc=
+			+fFEVF4A4lgSrdnam4NpBfkk1CDaTNLp0AHzhN69qkU=
 			</data>
 		</dict>
 	</dict>
