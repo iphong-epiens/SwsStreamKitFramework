@@ -72,6 +72,7 @@ public final class LiveViewController: UIViewController {
             .width: 720,
             .height: 1280
         ]
+
         rtmpStream.mixer.recorder.delegate = ExampleRecorderDelegate.shared
 
         videoBitrateSlider?.value = Float(RTMPStream.defaultVideoBitrate) / 1000

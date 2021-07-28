@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+ 
 //reference:
 // 1) https://github.com/marketplacer/AssetFrameworkDemo
 // 2) http://minsone.github.io/ios/mac/ios-share-image-resource-on-frameworks
