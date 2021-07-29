@@ -11,6 +11,8 @@ import Photos
 import UIKit
 import VideoToolbox
 import Logboard
+import RxSwift
+import RxCocoa
 
 let logger = Logboard.with("com.haishinkit.Exsample.iOS")
 
@@ -54,10 +56,17 @@ public final class LiveViewController: UIViewController {
     private var currentEffect: VideoEffect?
     private var currentPosition: AVCaptureDevice.Position = .back
     private var retryCount: Int = 0
-
+    
+    var disposeBag = DisposeBag()
+    
     public override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        Driver.just("Hello")
+            .delay(.seconds(1))
+            .drive(onNext: { print($0) })
+            .disposed(by: self.disposeBag)
+        
         rtmpStream = RTMPStream(connection: rtmpConnection)
         if let orientation = DeviceUtil.videoOrientation(by: UIApplication.shared.statusBarOrientation) {
             rtmpStream.orientation = orientation

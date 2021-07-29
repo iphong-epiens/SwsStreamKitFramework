@@ -7,8 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2E0E861C26B13220004D2179 /* HaishinKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF3B93D26B118CC002531E6 /* HaishinKit.xcframework */; };
-		2E0E861D26B13220004D2179 /* Logboard.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF3B93E26B118CC002531E6 /* Logboard.xcframework */; };
+		2E84920726B2321200EA1DB8 /* HaishinKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF3B93D26B118CC002531E6 /* HaishinKit.xcframework */; };
+		2E84920926B2321200EA1DB8 /* Logboard.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF3B93E26B118CC002531E6 /* Logboard.xcframework */; };
+		2E84920B26B2321200EA1DB8 /* RxCocoa.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E8491EC26B2293800EA1DB8 /* RxCocoa.xcframework */; };
+		2E84920D26B2321200EA1DB8 /* RxCocoaRuntime.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E8491E926B228F200EA1DB8 /* RxCocoaRuntime.xcframework */; };
+		2E84920F26B2321200EA1DB8 /* RxRelay.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E8491ED26B2293900EA1DB8 /* RxRelay.xcframework */; };
+		2E84921126B2321200EA1DB8 /* RxSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E8491EB26B2293800EA1DB8 /* RxSwift.xcframework */; };
 		2EA9B1D526AE9AC2008A47E7 /* SwsStreamKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EA9B1D326AE9AC2008A47E7 /* SwsStreamKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2EA9B1E826AE9D32008A47E7 /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B1E726AE9D32008A47E7 /* LiveViewController.swift */; };
 		2EA9B26926AEA0AC008A47E7 /* VisualEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B26326AEA0AB008A47E7 /* VisualEffect.swift */; };
@@ -18,20 +22,11 @@
 		2EA9B31726AEB581008A47E7 /* SwsStreamKitBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA9B31626AEB581008A47E7 /* SwsStreamKitBundle.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXCopyFilesBuildPhase section */
-		2E0E860026B124BC004D2179 /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-			);
-			name = "Embed Frameworks";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
-
 /* Begin PBXFileReference section */
+		2E8491E926B228F200EA1DB8 /* RxCocoaRuntime.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = RxCocoaRuntime.xcframework; sourceTree = "<group>"; };
+		2E8491EB26B2293800EA1DB8 /* RxSwift.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = RxSwift.xcframework; sourceTree = "<group>"; };
+		2E8491EC26B2293800EA1DB8 /* RxCocoa.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = RxCocoa.xcframework; sourceTree = "<group>"; };
+		2E8491ED26B2293900EA1DB8 /* RxRelay.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = RxRelay.xcframework; sourceTree = "<group>"; };
 		2EA9B1D026AE9AC2008A47E7 /* SwsStreamKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwsStreamKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EA9B1D326AE9AC2008A47E7 /* SwsStreamKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwsStreamKit.h; sourceTree = "<group>"; };
 		2EA9B1D426AE9AC2008A47E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -50,14 +45,38 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E0E861C26B13220004D2179 /* HaishinKit.xcframework in Frameworks */,
-				2E0E861D26B13220004D2179 /* Logboard.xcframework in Frameworks */,
+				2E84920D26B2321200EA1DB8 /* RxCocoaRuntime.xcframework in Frameworks */,
+				2E84920726B2321200EA1DB8 /* HaishinKit.xcframework in Frameworks */,
+				2E84920926B2321200EA1DB8 /* Logboard.xcframework in Frameworks */,
+				2E84921126B2321200EA1DB8 /* RxSwift.xcframework in Frameworks */,
+				2E84920F26B2321200EA1DB8 /* RxRelay.xcframework in Frameworks */,
+				2E84920B26B2321200EA1DB8 /* RxCocoa.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2E84920526B231D100EA1DB8 /* RxSwift */ = {
+			isa = PBXGroup;
+			children = (
+				2E8491EC26B2293800EA1DB8 /* RxCocoa.xcframework */,
+				2E8491ED26B2293900EA1DB8 /* RxRelay.xcframework */,
+				2E8491EB26B2293800EA1DB8 /* RxSwift.xcframework */,
+				2E8491E926B228F200EA1DB8 /* RxCocoaRuntime.xcframework */,
+			);
+			path = RxSwift;
+			sourceTree = "<group>";
+		};
+		2E84920626B231E500EA1DB8 /* HaishinKit */ = {
+			isa = PBXGroup;
+			children = (
+				2EF3B93D26B118CC002531E6 /* HaishinKit.xcframework */,
+				2EF3B93E26B118CC002531E6 /* Logboard.xcframework */,
+			);
+			path = HaishinKit;
+			sourceTree = "<group>";
+		};
 		2EA9B1C626AE9AC2008A47E7 = {
 			isa = PBXGroup;
 			children = (
@@ -109,8 +128,8 @@
 		2EF3B93C26B118CC002531E6 /* Library */ = {
 			isa = PBXGroup;
 			children = (
-				2EF3B93D26B118CC002531E6 /* HaishinKit.xcframework */,
-				2EF3B93E26B118CC002531E6 /* Logboard.xcframework */,
+				2E84920626B231E500EA1DB8 /* HaishinKit */,
+				2E84920526B231D100EA1DB8 /* RxSwift */,
 			);
 			path = Library;
 			sourceTree = SOURCE_ROOT;
@@ -137,7 +156,6 @@
 				2EA9B1CC26AE9AC2008A47E7 /* Sources */,
 				2EA9B1CD26AE9AC2008A47E7 /* Frameworks */,
 				2EA9B1CE26AE9AC2008A47E7 /* Resources */,
-				2E0E860026B124BC004D2179 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
